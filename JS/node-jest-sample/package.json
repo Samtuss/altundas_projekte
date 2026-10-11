@@ -1,0 +1,19 @@
+{
+  "name": "jest-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "abc": "echo Hello world",
+    "xyz": "echo Hello 3BHIF",
+    "start": "node mathUtils.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}

@@ -1,0 +1,94 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--STARTSEITE-->
+<html>
+    <head>
+        <title>Startseite</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/barrierefrei.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../html/index.html">
+                            <img id="logo" src="../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <img class="hover" src="../bilder/sonstige/ceo.jpg" alt="CEO Logitech">
+                <h3>
+                    CEO von Logitech
+                </h3>
+                <p style="text-align:center;">
+                    <u><b>Hanneke Faber</b></u>
+                </p>
+                <p style="text-align:center;">
+                    seit 2023 CEO des Unternehmens
+                </p>
+            </nav>
+
+            <article>
+                <h1>Startseite</h1>
+                <section>
+                    <h2>Willkommen bei Logitech!</h2>
+                    <hr>
+                    <p>
+                        Logitech ist ein weltweit führender Anbieter von innovativen Peripheriegeräten, Gaming-Ausrüstung und Smart Home-Lösungen, der es sich zur Aufgabe gemacht hat, das digitale Erlebnis seiner Nutzer zu verbessern. Seit Jahrzehnten setzt das Unternehmen Maßstäbe in der Entwicklung von Technologie, die sowohl die Produktivität steigert als auch das kreative Potenzial freisetzt. Ob im Büro, beim Gaming, beim Streaming oder im Smart Home – Logitech bietet Lösungen, die für jeden Bedarf maßgeschneidert sind
+                    </p>
+                    <p>
+                        Mit einer breiten Produktpalette, die von Mäusen, Tastaturen und Webcams bis hin zu spezialisierten Gaming-Produkten, Streaming-Ausrüstung und Kreativtools reicht, hat Logitech es verstanden, Geräte zu entwickeln, die nicht nur durch ihre Leistung, sondern auch durch ihre Benutzerfreundlichkeit und langlebige Qualität überzeugen. Produkte wie die Logitech G-Serie für Gamer, die beliebten MX Master Mäuse für die produktive Nutzung und die StreamCam für Content Creator sind nur einige Beispiele für die Vielfalt und Innovationskraft des Unternehmens.
+                    </p>
+                    <p>
+                        Ein besonderes Augenmerk legt Logitech auf den Gaming- und Esports-Bereich. Mit der Logitech G-Serie bietet das Unternehmen Profi-Gamern und leidenschaftlichen Spielern die Möglichkeit, ihre Leistung mit speziell entwickelten Gaming-Mäusen, Tastaturen, Headsets und Mikrofonen zu optimieren. Logitech ist stolz darauf, eine enge Partnerschaft mit führenden Esports-Teams und Veranstaltungen weltweit zu pflegen, um kontinuierlich Feedback aus der Gaming-Community in die Produktentwicklung einfließen zu lassen.
+                    </p>
+                    <p>
+                        Neben Performance und Qualität legt Logitech großen Wert auf Innovation und Technologie. Die Produkte des Unternehmens nutzen fortschrittlichste Wireless-Technologie, bieten eine unvergleichliche Anpassungsfähigkeit durch Softwarelösungen wie Logitech G HUB und Logitech Options, und setzen auf RGB-Beleuchtung, um den individuellen Stil und die Funktionalität zu vereinen. Die Kombination aus durchdachtem Design und leistungsstarker Technik macht Logitech-Produkte zu einem unverzichtbaren Werkzeug für Gamer, Kreative und professionelle Nutzer.
+                    </p>
+                    <p>
+                        Durch die ständige Weiterentwicklung und Einführung neuer Technologien positioniert sich Logitech nicht nur als Anbieter von Peripheriegeräten, sondern als Vorreiter in der digitalen Transformation. Dabei bleibt das Unternehmen stets seinem Versprechen treu: Produkte zu liefern, die nicht nur technisch überzeugen, sondern auch die Bedürfnisse und Wünsche der Nutzer in den Mittelpunkt stellen. 
+                    </p>
+                    <p>
+                        Auf den folgenden Seiten erfahren Sie mehr über die Produkte, die Innovation und die Softwarelösungen von Logitech und entdecken, wie das Unternehmen die Art und Weise, wie wir Technologie erleben und nutzen, kontinuierlich neu definiert. Lassen Sie sich inspirieren und finden Sie die perfekte Lösung für Ihre Bedürfnisse! 
+                    </p>
+                </section>
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

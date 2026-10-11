@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\bin\Debug\net9.0\TaskDownloadSimulation.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\bin\Debug\net9.0\TaskDownloadSimulation.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\bin\Debug\net9.0\TaskDownloadSimulation.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\bin\Debug\net9.0\TaskDownloadSimulation.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\bin\Debug\net9.0\TaskDownloadSimulation.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\refint\TaskDownloadSimulation.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\TaskDownloadSimulation.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadSimulation\TaskDownloadSimulation\obj\Debug\net9.0\ref\TaskDownloadSimulation.dll

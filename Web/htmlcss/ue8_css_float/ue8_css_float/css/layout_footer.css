@@ -1,0 +1,80 @@
+
+	* {   			/* NICHT VERÄNDERN */
+		margin: 0;  /* NICHT VERÄNDERN */
+		padding: 0; /* NICHT VERÄNDERN */
+	}
+
+/* Positionierung und Breite für gesamte Webseite  */
+	#mittig {
+		width: 900px;
+		margin-left:  auto;
+		margin-right: auto;
+		background-color: dimgray;
+	}
+
+	
+/* LINKE SPALTE HAUPTINHALT*/
+	#navigation_links {
+		float: left;
+	}
+
+	
+/* RECHTE SPALTE HAUPTINHALT*/
+	aside {
+		float: right;
+	}
+
+	
+/* MITTLERE SPALTE HAUPTINHALT */
+	article {
+		margin-left: 130px;
+		margin-right:250px;
+	}
+
+	
+	
+	
+/* TEXT generell  */	
+body {
+	background-color: crimson;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+/* Logo (als Hintergrundbild) und Größe des Kopbereiches*/
+	header {
+		height: 150px;
+		width:  900px;
+				
+		background-color:#0099A1; 					/*NICHT VERÄNDERN*/
+		background-image:url(../bilder/logo1.jpg);  /*NICHT VERÄNDERN*/
+		background-repeat:no-repeat; 				/*NICHT VERÄNDERN*/
+		background-size:contain; 					/*NICHT VERÄNDERN*/
+		background-position: left top; 				/*NICHT VERÄNDERN*/
+	}
+
+
+
+
+/* FUSSZEILE */
+	footer{
+		position:fixed;
+		width: 900px;
+		margin-left:auto;
+		margin-right:auto;
+		height: 30px;
+		bottom: 0; 
+		text-align: center;
+		background-color: rgba(255, 0, 0, 0.5);
+	}
+	footer a {
+		color: white;
+	}
+/* WEITERE ANGABEN FÜR FUSSZEILE */
+
+/* GENERELLE ANGABEN FÜR HYPERLINKS, HOVER?*/
+
+
+
+ 
+	
+	

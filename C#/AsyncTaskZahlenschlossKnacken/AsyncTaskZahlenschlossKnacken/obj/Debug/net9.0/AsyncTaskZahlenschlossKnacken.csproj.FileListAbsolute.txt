@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\bin\Debug\net9.0\AsyncTaskZahlenschlossKnacken.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\bin\Debug\net9.0\AsyncTaskZahlenschlossKnacken.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\bin\Debug\net9.0\AsyncTaskZahlenschlossKnacken.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\bin\Debug\net9.0\AsyncTaskZahlenschlossKnacken.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\bin\Debug\net9.0\AsyncTaskZahlenschlossKnacken.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\refint\AsyncTaskZahlenschlossKnacken.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\AsyncTaskZahlenschlossKnacken.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskZahlenschlossKnacken\AsyncTaskZahlenschlossKnacken\obj\Debug\net9.0\ref\AsyncTaskZahlenschlossKnacken.dll

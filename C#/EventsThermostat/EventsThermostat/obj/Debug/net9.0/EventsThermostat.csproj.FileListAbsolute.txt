@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\bin\Debug\net9.0\EventsThermostat.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\bin\Debug\net9.0\EventsThermostat.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\bin\Debug\net9.0\EventsThermostat.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\bin\Debug\net9.0\EventsThermostat.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\bin\Debug\net9.0\EventsThermostat.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\refint\EventsThermostat.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\EventsThermostat.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsThermostat\EventsThermostat\obj\Debug\net9.0\ref\EventsThermostat.dll

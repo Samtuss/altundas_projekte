@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\kassea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\kassea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\csvformatierera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\csvformatierera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\klartextformatierera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\klartextformatierera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\htmlformatierera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\htmlformatierera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\bestellformatiererpapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\bestellformatiererpapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\kasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\kasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\csvformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\csvformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\xmlformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\xmlformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\htmlformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\htmlformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\ibestellformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\ibestellformatierer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\stundenwiederholungstrategypattern\\stundenwiederholungstrategypattern\\bestellung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75EC2D9-F0BC-4BD2-B00B-062F31C6583A}|StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern.csproj|solutionrelative:stundenwiederholungstrategypattern\\bestellung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvFormatiererA.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\CsvFormatiererA.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\CsvFormatiererA.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\CsvFormatiererA.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\CsvFormatiererA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:35:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KlartextFormatiererA.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\KlartextFormatiererA.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\KlartextFormatiererA.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\KlartextFormatiererA.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\KlartextFormatiererA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:33:26.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlFormatiererA.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\HtmlFormatiererA.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\HtmlFormatiererA.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\HtmlFormatiererA.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\HtmlFormatiererA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:31:47.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BestellFormatiererPapa.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\BestellFormatiererPapa.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\BestellFormatiererPapa.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\BestellFormatiererPapa.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\BestellFormatiererPapa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:28:39.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KasseA.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\KasseA.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\KasseA.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\KasseA.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\KasseA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:36:55.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\Program.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\Program.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:13:11.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kasse.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\Kasse.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\Kasse.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\Kasse.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\Kasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:22:22.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvFormatierer.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\CsvFormatierer.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\CsvFormatierer.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\CsvFormatierer.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\CsvFormatierer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:16:58.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XmlFormatierer.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\XmlFormatierer.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\XmlFormatierer.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\XmlFormatierer.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\XmlFormatierer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:16:40.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HtmlFormatierer.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\HtmlFormatierer.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\HtmlFormatierer.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\HtmlFormatierer.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\HtmlFormatierer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:16:32.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBestellFormatierer.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\IBestellFormatierer.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\IBestellFormatierer.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\IBestellFormatierer.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\IBestellFormatierer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:14:45.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bestellung.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\Bestellung.cs",
+              "RelativeDocumentMoniker": "StundenwiederholungStrategyPattern\\Bestellung.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StundenwiederholungStrategyPattern\\StundenwiederholungStrategyPattern\\Bestellung.cs",
+              "RelativeToolTip": "StundenwiederholungStrategyPattern\\Bestellung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:15:00.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

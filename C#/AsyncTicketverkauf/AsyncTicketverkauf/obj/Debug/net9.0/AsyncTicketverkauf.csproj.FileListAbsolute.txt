@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\bin\Debug\net9.0\AsyncTicketverkauf.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\bin\Debug\net9.0\AsyncTicketverkauf.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\bin\Debug\net9.0\AsyncTicketverkauf.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\bin\Debug\net9.0\AsyncTicketverkauf.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\bin\Debug\net9.0\AsyncTicketverkauf.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\refint\AsyncTicketverkauf.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\AsyncTicketverkauf.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTicketverkauf\AsyncTicketverkauf\obj\Debug\net9.0\ref\AsyncTicketverkauf.dll

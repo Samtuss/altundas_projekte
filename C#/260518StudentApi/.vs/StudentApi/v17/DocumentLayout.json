@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\260518studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\260518studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\260518studentapi\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D14652B-E403-0644-5C1C-139401D8A146}|StudentApi.csproj|solutionrelative:studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentApi",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\StudentApi.csproj",
+              "RelativeDocumentMoniker": "StudentApi.csproj",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\StudentApi.csproj",
+              "RelativeToolTip": "StudentApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T08:45:33.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:42:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentService.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\260518StudentApi\\StudentService.cs",
+              "RelativeToolTip": "StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T08:42:17.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

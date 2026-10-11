@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\bin\Debug\net9.0\Vergleich_ED.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\bin\Debug\net9.0\Vergleich_ED.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\bin\Debug\net9.0\Vergleich_ED.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\bin\Debug\net9.0\Vergleich_ED.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\bin\Debug\net9.0\Vergleich_ED.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\refint\Vergleich_ED.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\Vergleich_ED.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Vergleich_ED\Vergleich_ED\obj\Debug\net9.0\ref\Vergleich_ED.dll

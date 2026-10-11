@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB836B-DACD-4175-8E7C-42CAEBC9669F}|WebAppWarenkorb\\WebAppWarenkorb.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\webappwarenkorb\\webappwarenkorb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB836B-DACD-4175-8E7C-42CAEBC9669F}|WebAppWarenkorb\\WebAppWarenkorb.csproj|solutionrelative:webappwarenkorb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB836B-DACD-4175-8E7C-42CAEBC9669F}|WebAppWarenkorb\\WebAppWarenkorb.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\webappwarenkorb\\webappwarenkorb\\warenkorbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB836B-DACD-4175-8E7C-42CAEBC9669F}|WebAppWarenkorb\\WebAppWarenkorb.csproj|solutionrelative:webappwarenkorb\\warenkorbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CB836B-DACD-4175-8E7C-42CAEBC9669F}|WebAppWarenkorb\\WebAppWarenkorb.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\webappwarenkorb\\webappwarenkorb\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5CB836B-DACD-4175-8E7C-42CAEBC9669F}|WebAppWarenkorb\\WebAppWarenkorb.csproj|solutionrelative:webappwarenkorb\\produkt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WarenkorbService.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\WebAppWarenkorb\\WarenkorbService.cs",
+              "RelativeDocumentMoniker": "WebAppWarenkorb\\WarenkorbService.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\WebAppWarenkorb\\WarenkorbService.cs",
+              "RelativeToolTip": "WebAppWarenkorb\\WarenkorbService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T06:24:54.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Produkt.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\WebAppWarenkorb\\Produkt.cs",
+              "RelativeDocumentMoniker": "WebAppWarenkorb\\Produkt.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\WebAppWarenkorb\\Produkt.cs",
+              "RelativeToolTip": "WebAppWarenkorb\\Produkt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T10:31:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\WebAppWarenkorb\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppWarenkorb\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WebAppWarenkorb\\WebAppWarenkorb\\Program.cs",
+              "RelativeToolTip": "WebAppWarenkorb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T06:59:40.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

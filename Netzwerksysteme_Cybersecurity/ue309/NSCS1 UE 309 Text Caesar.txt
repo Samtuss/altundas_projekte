@@ -1,0 +1,9 @@
+DES wurde als Standard für alle amerikanischen Bundesbehörden zugelassen und am 15. Januar 1977 als FIPS PUB 46 publiziert; verpflichtend für sie wurde er sechs Monate später. Der Standard enthielt die Auflage, alle fünf Jahre neu bestätigt werden zu müssen. Weiterhin befasste sich die Internationale Organisation für Normung (ISO) mit dem Algorithmus unter der Bezeichnung Data Encipherment No. 1 (DEA1).
+
+1981 wurde der DES-Algorithmus vom American National Standards Institute (ANSI) als Standard für den privaten Sektor anerkannt.
+
+Bereits Anfang der 1990er Jahre äußerten Kryptographen erste Zweifel, ob der DES-Algorithmus noch als sicher anzusehen sei. Zum einen hatte sich die Hardware im Vergleich zu 1970 stark weiter entwickelt, zum anderen glaubte man auch Schwächen im Algorithmus zu erkennen. 1994 wurde ein theoretischer Angriff mittels linearer Kryptoanalyse publiziert. Mitte 1998 führte die Electronic Frontier Foundation (EFF) einen erfolgreichen Angriff über die Brute-Force-Methode durch. Die Gesellschaft baute hierzu eine spezielle Hardware mit insgesamt über 1800 Mikroprozessoren[9] und konnte mit dieser einen Schlüssel in weniger als drei Tagen brechen. Die Arbeiten am Nachfolgestandard AES hatten zu diesem Zeitpunkt schon begonnen. Am 26. Mai 2002 wurde DES schließlich durch AES ersetzt.
+
+Die Einführung von DES gilt als Auslöser einer Vielzahl kryptographischer Studien, besonders solcher, die sich mit dem Angriff auf Blockchiffrierungen befassen. Bruce Schneier schreibt in seinem Buch „Angewandte Kryptographie“:
+
+    „Inoffiziell bezeichnete die NSA den DES als einen ihrer größten Fehler. Hätte die Behörde gewußt, daß die Einzelheiten herausgegeben und Softwareimplementierungen möglich wurden, hätte sie niemals zugestimmt. Mehr als alles andere revolutionierte DES die gesamte Kryptoanalyse. Jetzt gab es einen Algorithmus, den man untersuchen konnte – sogar einen, den die NSA als sicher bezeichnete.“

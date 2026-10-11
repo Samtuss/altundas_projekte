@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\bin\Debug\net9.0\TasksSchneckenrennen.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\bin\Debug\net9.0\TasksSchneckenrennen.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\bin\Debug\net9.0\TasksSchneckenrennen.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\bin\Debug\net9.0\TasksSchneckenrennen.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\bin\Debug\net9.0\TasksSchneckenrennen.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\refint\TasksSchneckenrennen.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\TasksSchneckenrennen.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TasksSchneckenrennen\TasksSchneckenrennen\obj\Debug\net9.0\ref\TasksSchneckenrennen.dll

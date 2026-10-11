@@ -1,0 +1,130 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--GAMINGHEADSET-->
+<html>
+    <head>
+        <title>Gamingheasets</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/unterseiten.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/barrierefrei.css">
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../../html/index.html">
+                            <img id="logo" src="../../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <ol>
+                    <li><a href="#pro_serie">Pro-Serie</a></li>
+                    <li><a href="#g_serie">G-Serie</a></li>
+                </ol>
+            </nav>
+
+            <article>
+                <section>
+                    <h1>Gamingheadsets</h1>
+                    <p>Entdecken Sie die neuesten Gamingheadsets von Logitech G, die für höchste Präzision und Leistung entwickelt wurden. Unsere Mäuse sind mit fortschrittlicher Technologie ausgestattet, um Ihnen einen Wettbewerbsvorteil zu verschaffen.</p>
+                    <br>
+                    <hr>
+                </section>
+                <section>
+                    <h2 id="pro_serie">Pro-Serie</h2>
+                    <div class="modelle">
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/headset/pro_x.jpg" alt="PRO X">
+                            <div class="details">
+                                <h3>PRO X</h3>
+                                <ul>
+                                    <li>50mm Pro-G Treiber</li>
+                                    <li>Blue VO!CE Mikrofon-Technologie</li>
+                                    <li>DTS Headphone:X 2.0 Surround</li>
+                                    <li>Abnehmbares Mikrofon</li>
+                                    <li>Kompatibel mit PC & Konsole</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/headset/pro_x_2_lightspeed.jpg" alt="PRO X Lightspeed">
+                            <div class="details">
+                                <h3>PRO X Lightspeed</h3>
+                                <ul>
+                                    <li>Lightspeed Wireless</li>
+                                    <li>50mm Pro-G Treiber</li>
+                                    <li>Blue VO!CE Mikrofon-Technologie</li>
+                                    <li>DTS Headphone:X 2.0 Surround</li>
+                                    <li>Bis zu 20h Akkulaufzeit</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <h2 id="g_serie">G-Serie</h2>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/headset/g733.jpg" alt="G733">
+                            <div class="details">
+                                <h3>G733</h3>
+                                <ul>
+                                    <li>Lightspeed Wireless</li>
+                                    <li>40mm Pro-G Treiber</li>
+                                    <li>RGB-Beleuchtung</li>
+                                    <li>Leichtes Design (278g)</li>
+                                    <li>Bis zu 29h Akkulaufzeit</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/headset/g432.jpg" alt="G432">
+                            <div class="details">
+                                <h3>G432</h3>
+                                <ul>
+                                    <li>50mm Treiber</li>
+                                    <li>DTS Headphone:X 2.0 Surround</li>
+                                    <li>6mm Mikrofon mit Flip-Stummschaltung</li>
+                                    <li>Kompatibel mit PC, Konsole & Mobile</li>
+                                    <li>3,5mm & USB-Anschluss</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

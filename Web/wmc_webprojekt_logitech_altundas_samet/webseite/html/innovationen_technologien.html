@@ -1,0 +1,83 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--PRODUKTE-->
+<html>
+    <head>
+        <title>Produkte</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/barrierefrei.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../html/index.html">
+                            <img id="logo" src="../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <h1>HERO-Sensor</h1>
+                <img class="hover" src="../bilder/sonstige/hero-sensor.jpg" alt="HERO-Sensor">
+                <h1>LIGHTSPEED-Technologie</h1>
+                <img class="hover" src="../bilder/sonstige/lightspeed-technologie.jpg" alt="LIGHTSPEED-Technologie">
+                <h1>Nachhaltigkeitsiegel</h1>
+                <img class="hover" src="../bilder/sonstige/nachhaltigkeit_bild.webp" alt="Nachhaltigkeitsiegel">
+            </nav>
+
+            <article>
+                <h1>Innovationen & Technologien</h1>
+                <section>
+                    <h2>Die Zukunft der Technologie:</h2>
+                    <hr>
+                    <p> Logitech ist seit vielen Jahren für innovative Technologien und Entwicklung bekannt. Um Produkte zu entwickeln, die Funktionalität, Komfort und Nachhaltigkeit vereinen, setzt das Unternehmen auf innovative Lösungen. </p>
+                    <h2>HERO-Sensor:</h2>
+                    <p> Einer der größten Fortschritte von Logitech ist der HERO-Sensor, der für Gaming-Mäuse entwickelt wurde. Dieser hocheffiziente Sensor kombiniert Präzision und Energieeffizienz, wodurch er sowohl im professionellen Gaming als auch im Alltag überzeugt. </p>
+                </section>
+                <section>
+                    <h2>LIGHTSPEED-Technologie:</h2>
+                    <p> Logitech hat mit der Lightspeed-Technologie neue Standards für kabellose Verbindungen festgesetzt. Sie weist eine sehr geringe Latenz auf und ist so zuverlässig, dass sie oft mit kabelgebundenen Lösungen verglichen wird – perfekt für anspruchsvolle Anwendungen wie E-Sports. </p>
+                </section>
+                <section>
+                    <h2>Nachhaltigkeit</h2>
+                    <p>Logitech hat sich verpflichtet, die Umweltauswirkungen seiner Produkte zu reduzieren. Dies zeigt sich in der Verwendung recycelter Materialien, nachhaltiger Verpackungen und CO₂-neutraler Produktionsprozesse.</p>
+                </section>
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

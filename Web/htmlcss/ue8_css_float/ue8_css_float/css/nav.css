@@ -1,0 +1,59 @@
+/* NAVIGATION OBEN */
+		#navigation_oben {
+		  height:25px;
+		  background-color: red;
+		  
+		}
+
+		#navigation_oben ul {
+		
+		}
+
+		#navigation_oben li {
+			display: inline; /*NICHT VERÄNDERN*/
+			
+		}
+
+		#navigation_oben a {
+			display: block;  /*NICHT VERÄNDERN*/
+			float: left;     /*NICHT VERÄNDERN*/
+			color: white;
+			padding-left: 68px;
+			padding-right: 67px;
+			padding-bottom: 6px;
+			text-decoration: double;
+			
+			/* ERGÄNZUNGEN ? */
+		}
+
+		#navigation_oben a:hover {
+			background-color: white;
+			color: red;
+		}
+/* NAVIGATION LINKS */
+		#navigation_links ul {
+			margin-left: 30px;
+			color: dimgray;
+		}
+
+
+		#navigation_links li {
+			margin-top: 10px;
+			margin-bottom: 10px;
+			
+		}
+
+		#navigation_links a {
+			color: white;
+			text-decoration: double;
+		}
+
+		#navigation_links a.selected{
+			border-top: solid 1px white;
+			border-bottom: solid 1px white;
+		}
+
+
+
+		/* ERGÄNZUNGEN NAVIGATION LINKS? (e.g HOVER) */
+

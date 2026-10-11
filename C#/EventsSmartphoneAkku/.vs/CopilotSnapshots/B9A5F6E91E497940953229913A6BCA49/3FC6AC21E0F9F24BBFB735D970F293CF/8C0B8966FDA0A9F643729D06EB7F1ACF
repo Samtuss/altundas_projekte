@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EventsSmartphoneAkku;
+
+public class Smartphone
+{
+    public int BatteryStatus
+    {
+        get => BatteryStatus;
+        set 
+        {
+            int oldValue = BatteryStatus;
+            if (value < 20 && value != oldValue)
+                Batterylow?.Invoke(this, EventArgs.Empty);
+        }
+
+    }
+    public Smartphone()
+    {
+        BatteryStatus = 100;
+    }
+
+    public event EventHandler<EventArgs> Batterylow;
+
+    public void OnBatteryLow()
+    {
+        Console.WriteLine("Achtung: Akku fast leer!");
+    }
+
+}

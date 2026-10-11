@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\bin\Debug\net9.0\TaskWurfelTurnier.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\bin\Debug\net9.0\TaskWurfelTurnier.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\bin\Debug\net9.0\TaskWurfelTurnier.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\bin\Debug\net9.0\TaskWurfelTurnier.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\bin\Debug\net9.0\TaskWurfelTurnier.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\refint\TaskWurfelTurnier.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\TaskWurfelTurnier.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskWurfelTurnier\TaskWurfelTurnier\obj\Debug\net9.0\ref\TaskWurfelTurnier.dll

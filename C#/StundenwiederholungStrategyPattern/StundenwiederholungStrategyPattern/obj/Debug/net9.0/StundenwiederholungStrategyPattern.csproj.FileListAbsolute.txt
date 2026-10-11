@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\bin\Debug\net9.0\StundenwiederholungStrategyPattern.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\bin\Debug\net9.0\StundenwiederholungStrategyPattern.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\bin\Debug\net9.0\StundenwiederholungStrategyPattern.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\bin\Debug\net9.0\StundenwiederholungStrategyPattern.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\bin\Debug\net9.0\StundenwiederholungStrategyPattern.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\refint\StundenwiederholungStrategyPattern.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\StundenwiederholungStrategyPattern.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\StundenwiederholungStrategyPattern\StundenwiederholungStrategyPattern\obj\Debug\net9.0\ref\StundenwiederholungStrategyPattern.dll

@@ -1,0 +1,25 @@
+NBS und IBM beschlossen eine Kooperation mit Unterstützung der National Security Agency (NSA). Welchen Einfluss die NSA auf die Entwicklung des Algorithmus hatte, ist umstritten. Vor allem die Schlüssellänge von 56 Bits und das Design der für Substitution zuständigen „S-Boxen“ gab Anlass zu Spekulation über mögliche Hintertüren, die eventuell durch die NSA eingeführt wurden. Nach eigenen Angaben stärkte die NSA die S-Boxen gegen differentielle Kryptoanalyse, wollte aber gleichzeitig die Schlüssellänge auf 48 Bits beschränken, während IBM 64 Bits wollte. Als Kompromiss einigten sich NSA und IBM auf eine Schlüssellänge von 56 Bits.
+
+Am 17. März 1975 wurde der Algorithmus im „Federal Register“ veröffentlicht. Die NBS bat zudem um öffentliche Stellungnahme. Im folgenden Jahr wurden zwei Workshops zum vorgeschlagenen Standard abgehalten. Durch die unklare Rolle der NSA zogen die Veränderungen des Algorithmus von verschiedenen Seiten Kritik auf sich, unter anderem von den Pionieren asymmetrischer Kryptosysteme Martin Hellman und Whitfield Diffie. Es wurde gemutmaßt, die NSA habe eine Hintertür eingebaut, welche das Verfahren dergestalt schwächt, dass sie damit verschlüsselte Nachrichten lesen konnte. Alan Konheim, einer der DES-Entwickler, gab an, die S-Boxen nach Washington gesendet und stark verändert wiedererhalten zu haben.
+
+Ein nachrichtendienstliches Komitee des US-Senats untersuchte die Einflussnahme des NSA. In der nicht als Verschlusssache gehandhabten Zusammenfassung des Berichts gaben sie 1978 an:
+
+    “In the development of DES, NSA convinced IBM that a reduced key size was sufficient; indirectly assisted in the development of the S-box structures; and certified that the final DES algorithm was, to the best of their knowledge, free from any statistical or mathematical weakness. […]
+    NSA did not tamper with the design of the algorithm in any way. IBM invented and designed the algorithm, made all pertinent decisions regarding it, and concurred that the agreed upon key size was more than adequate for all commercial applications for which the DES was intended.”
+
+    „Während der Entwicklung von DES überzeugte die NSA IBM davon, dass eine reduzierte Schlüssellänge ausreichend sei; half indirekt bei der Konstruktion der S-Boxen; und zertifizierte den entstehenden DES-Algorithmus als nach bestem Gewissen frei von statistischen und mathematischen Schwächen. […]
+    Die NSA veränderte das Design des Algorithmus in keiner Weise. IBM entwarf und entwickelte diesen, traf alle sachdienlichen Entscheidungen und stimmte darin überein, dass die verkürzte Schlüssellänge mehr als adäquat für die vorgesehenen kommerziellen Verwendungen sei.“
+
+Walter Tuchman, ein weiterer DES-Entwickler, wird mit den Worten zitiert “We developed the DES algorithm entirely within IBM using IBMers. The NSA did not dictate a single wire!” (deutsch: „Wir haben den DES-Algorithmus vollständig innerhalb von IBM unter Nutzung von IBMern entwickelt. Die NSA hat nicht ein einziges Memo diktiert!“).
+
+Durch die Veröffentlichung der differentiellen Kryptoanalyse durch Adi Shamir und Eli Biham im Jahr 1990 wurden einige der Befürchtungen einer Hintertür aus dem Wege geräumt. DES zeigte sich durch die Gestaltung der S-Boxen deutlich widerstandsfähiger gegen diese generische Angriffsmethode, als dies bei einer zufälligen Anordnung der Fall gewesen wäre. 1994 veröffentlichte Don Coppersmith die ursprünglichen Designkriterien für die S-Boxen. Es zeigte sich, dass IBM die differentielle Kryptoanalyse bereits in den 1970er Jahren entdeckt hatte und nach Umgestaltung der S-Boxen von der NSA zur Geheimhaltung instruiert worden war.
+
+Coppersmith erklärte “that was because [differential cryptanalysis] can be a very powerful tool, used against many schemes, and there was concern that such information in the public domain could adversely affect national security.” (deutsch: „dies geschah, da die [differentielle Kryptoanalyse] ein mächtiges Werkzeug gegen viele Verfahren sein kann und es Bedenken gab, die nationale Sicherheit könne durch eine Veröffentlichung gefährdet werden.“).
+
+Shamir selbst kommentierte “I would say that, contrary to what some people believe, there is no evidence of tampering with the DES so that the basic design was weakened.” (deutsch: „Anders als manche glauben, sehe ich selbst keine Hinweise auf Manipulation von DES, welche das grundlegende Design geschwächt hat.“)
+
+Die Kritik an der Länge des Schlüssels blieb jedoch bestehen und wurde durch die Begründung der NSA, 8 der 64 Schlüsselbits könnten als Paritätsbits verwendet werden, noch weiter gestützt. Es wird weithin vermutet, dass die Reduzierung der NSA die Möglichkeit eines Angriffs mit der Brute-Force-Methode schaffen sollte.
+
+Heute gilt der DES aufgrund seiner geringen Schlüssellänge als nicht mehr sicher genug. Durch die Mehrfachanwendung des DES mit unterschiedlichen Schlüsseln wie zum Beispiel beim TDES kann die effektive Schlüssellänge erhöht werden.
+
+Wissenschaftliche Untersuchungen haben mittlerweile erwiesen, dass DES trotz seiner Schlüssellänge von nur 56 Bits sicherer ist als der Lucifer-Algorithmus mit seinen 128 Bits.

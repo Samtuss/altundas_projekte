@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTaskFakultätsrechner", "AsyncTaskFakultätsrechner\AsyncTaskFakultätsrechner.csproj", "{69E1D2FF-9B45-4E84-B691-D5983889DF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E1D2FF-9B45-4E84-B691-D5983889DF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E1D2FF-9B45-4E84-B691-D5983889DF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E1D2FF-9B45-4E84-B691-D5983889DF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E1D2FF-9B45-4E84-B691-D5983889DF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {468B5219-F611-44AE-BB77-9555D0B7CE24}
+	EndGlobalSection
+EndGlobal

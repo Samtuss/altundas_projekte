@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TaskCount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF35859-B5F7-4A08-93CC-69563451A1D3}|TaskCount\\TaskCount.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\taskcount\\taskcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF35859-B5F7-4A08-93CC-69563451A1D3}|TaskCount\\TaskCount.csproj|solutionrelative:taskcount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TaskCount\\TaskCount\\Program.cs",
+              "RelativeDocumentMoniker": "TaskCount\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TaskCount\\TaskCount\\Program.cs",
+              "RelativeToolTip": "TaskCount\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:19:52.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "parliament": {
+    "name": "Nationalrat"
+  },
+  "parties": [
+    {
+      "name": "FPÖ",
+      "founded": 1956
+    },
+    {
+      "name": "ÖVP",
+      "founded": 1945
+    },
+    {
+      "name": "SPÖ",
+      "founded": 1889
+    },
+    {
+      "name": "NEOS",
+      "founded": 2012
+    },
+    {
+      "name": "Grüne",
+      "founded": 1986
+    }
+  ],
+  "members": [
+    {
+      "firstName": "Hans",
+      "lastName": "Berger",
+      "party": "FPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "nein" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "enthaltung" }
+      ]
+    },
+    {
+      "firstName": "Andrea",
+      "lastName": "Mayrhofer",
+      "party": "FPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "nein" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "nein" }
+      ]
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Reiter",
+      "party": "FPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "enthaltung" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "nein" }
+      ]
+    },
+    {
+      "firstName": "Klaus",
+      "lastName": "Wagner",
+      "party": "FPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "nein" },
+        { "bill": "Steuerreform", "vote": "enthaltung" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Huber",
+      "party": "ÖVP",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Müller",
+      "party": "ÖVP",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "nein" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Schmidt",
+      "party": "ÖVP",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "enthaltung" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Georg",
+      "lastName": "Fischer",
+      "party": "SPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "nein" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Bauer",
+      "party": "SPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "nein" },
+        { "bill": "Bildungsreform", "vote": "enthaltung" }
+      ]
+    },
+    {
+      "firstName": "Stefan",
+      "lastName": "Lehner",
+      "party": "SPÖ",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "enthaltung" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Moser",
+      "party": "NEOS",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "enthaltung" }
+      ]
+    },
+    {
+      "firstName": "Julia",
+      "lastName": "Wimmer",
+      "party": "NEOS",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "ja" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Eva",
+      "lastName": "Grün",
+      "party": "Grüne",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "nein" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Hofer",
+      "party": "Grüne",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "nein" },
+        { "bill": "Bildungsreform", "vote": "enthaltung" }
+      ]
+    },
+    {
+      "firstName": "Sandra",
+      "lastName": "Weiss",
+      "party": "Grüne",
+      "votes": [
+        { "bill": "Klimaschutzgesetz", "vote": "ja" },
+        { "bill": "Steuerreform", "vote": "nein" },
+        { "bill": "Bildungsreform", "vote": "ja" }
+      ]
+    }
+  ]
+}

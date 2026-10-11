@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\bin\Debug\net9.0\AsyncPizzaBestellung.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\bin\Debug\net9.0\AsyncPizzaBestellung.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\bin\Debug\net9.0\AsyncPizzaBestellung.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\bin\Debug\net9.0\AsyncPizzaBestellung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\bin\Debug\net9.0\AsyncPizzaBestellung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\refint\AsyncPizzaBestellung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\AsyncPizzaBestellung.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncPizzaBestellung\AsyncPizzaBestellung\obj\Debug\net9.0\ref\AsyncPizzaBestellung.dll

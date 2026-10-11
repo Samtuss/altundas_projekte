@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\bin\Debug\net9.0\Rechenduell.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\bin\Debug\net9.0\Rechenduell.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\bin\Debug\net9.0\Rechenduell.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\bin\Debug\net9.0\Rechenduell.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\bin\Debug\net9.0\Rechenduell.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\refint\Rechenduell.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\Rechenduell.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Rechenduell\Rechenduell\obj\Debug\net9.0\ref\Rechenduell.dll

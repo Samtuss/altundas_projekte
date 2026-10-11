@@ -1,0 +1,53 @@
+﻿using System.Diagnostics;
+
+namespace AsyncWaschstrasse
+{
+    public class Program
+    {
+        static SemaphoreSlim sem = new SemaphoreSlim(2);
+        static async Task Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+
+            // Liste der Autos
+            var autos = new[] { "Auto 1", "Auto 2", "Auto 3", "Auto 4", "Auto 5", "Auto 6" };
+            var tasks = new List<Task<Ergebnis>>();
+
+            // Starte alle Wasch-Tasks
+            foreach (var auto in autos)
+            {
+                tasks.Add(Waschen(auto));
+            }
+
+            // Warte auf alle Ergebnisse
+            Ergebnis[] ergebnisse = await Task.WhenAll(tasks);
+
+            // Ergebnisse ausgeben
+            foreach (var ergebnis in ergebnisse)
+            {
+                Console.WriteLine($"{ergebnis.Name}: Gewaschen = {ergebnis.Gewaschen}");
+            }
+        }
+
+        static async Task<Ergebnis> Waschen(string name)
+        {
+            Stopwatch sw = new Stopwatch();
+            sw.Start();
+            Console.WriteLine($"[{sw.ElapsedMilliseconds}ms] {name} wartet auf freien Platz");
+            await sem.WaitAsync();
+            try
+            {
+                Console.WriteLine($"[{sw.ElapsedMilliseconds}ms] {name} fährt in Waschplatz ein");
+                await Task.Delay(2000); // Simuliere Waschdauer
+                Console.WriteLine($"[{sw.ElapsedMilliseconds}ms] {name} wird gewaschen...");
+            }
+            finally
+            {
+                sem.Release();
+                sw.Stop();
+                Console.WriteLine($"[{sw.ElapsedMilliseconds}ms] {name} Fertig gewaschen! Platz wird frei.");
+            }
+            return new Ergebnis(name, true);
+        }
+    }
+}

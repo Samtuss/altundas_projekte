@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\bin\Debug\net9.0\TaskFormel1.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\bin\Debug\net9.0\TaskFormel1.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\bin\Debug\net9.0\TaskFormel1.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\bin\Debug\net9.0\TaskFormel1.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\bin\Debug\net9.0\TaskFormel1.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\refint\TaskFormel1.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\TaskFormel1.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskFormel1\TaskFormel1\obj\Debug\net9.0\ref\TaskFormel1.dll

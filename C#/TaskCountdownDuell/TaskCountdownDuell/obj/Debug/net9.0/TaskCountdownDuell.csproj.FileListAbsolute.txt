@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\bin\Debug\net9.0\TaskCountdownDuell.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\bin\Debug\net9.0\TaskCountdownDuell.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\bin\Debug\net9.0\TaskCountdownDuell.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\bin\Debug\net9.0\TaskCountdownDuell.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\bin\Debug\net9.0\TaskCountdownDuell.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\refint\TaskCountdownDuell.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\TaskCountdownDuell.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCountdownDuell\TaskCountdownDuell\obj\Debug\net9.0\ref\TaskCountdownDuell.dll

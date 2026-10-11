@@ -1,0 +1,70 @@
+.produkte {
+    max-width: 900px;         /* gleiche Breite wie dein article */
+    margin: 0 auto;           /* zentriert im article */
+    padding: 20px 0;
+    text-align: center;       /* für inline-block zentrierung */
+}
+
+.produkt {
+    display: inline-block;
+    vertical-align: top;
+    width: 28%;               /* 3 pro Reihe mit Abstand */
+    margin: 1.5%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    background: #181818;
+    min-width: 220px;
+    max-width: 260px;
+    text-align: center;
+}
+
+.produkt img {
+    width: 220px;         /* feste Breite */
+    height: 220px;        /* feste Höhe */
+    object-fit: cover;    /* Bild wird passend zugeschnitten */
+    display: block;
+    border-radius: 12px;
+    margin: 0 auto;       /* zentriert das Bild im Container */
+    transition: filter 0.3s;
+}
+
+.produkt.tastatur img {
+    width: 270px;
+    height: 180px;
+    object-fit: contain;
+    background: #222; 
+    border-radius: 12px;
+}
+
+.produkt .produkt-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.65);
+    color: #fff;
+    opacity: 0;
+    transition: opacity 0.3s;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    pointer-events: none;
+}
+
+.produkt:hover img {
+    filter: blur(4px) brightness(0.5);
+}
+
+.produkt:hover .produkt-overlay {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.produkt h3, .produkt p {
+    margin: 8px 0px 0px 0px;
+    color: white;
+}

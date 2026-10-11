@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\bin\Debug\net9.0\Lernfächer_Verwaltung.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\bin\Debug\net9.0\Lernfächer_Verwaltung.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\bin\Debug\net9.0\Lernfächer_Verwaltung.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\bin\Debug\net9.0\Lernfächer_Verwaltung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\bin\Debug\net9.0\Lernfächer_Verwaltung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\refint\Lernfächer_Verwaltung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\Lernfächer_Verwaltung.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Lernfächer_Verwaltung\Lernfächer_Verwaltung\obj\Debug\net9.0\ref\Lernfächer_Verwaltung.dll

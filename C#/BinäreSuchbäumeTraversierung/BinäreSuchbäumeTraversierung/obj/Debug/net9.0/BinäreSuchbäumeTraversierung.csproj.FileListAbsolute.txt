@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\bin\Debug\net9.0\BinäreSuchbäumeTraversierung.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\bin\Debug\net9.0\BinäreSuchbäumeTraversierung.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\bin\Debug\net9.0\BinäreSuchbäumeTraversierung.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\bin\Debug\net9.0\BinäreSuchbäumeTraversierung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\bin\Debug\net9.0\BinäreSuchbäumeTraversierung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\refint\BinäreSuchbäumeTraversierung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\BinäreSuchbäumeTraversierung.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BinäreSuchbäumeTraversierung\BinäreSuchbäumeTraversierung\obj\Debug\net9.0\ref\BinäreSuchbäumeTraversierung.dll

@@ -1,0 +1,14 @@
+C:\SJ2526\POS\StrategyWH\StrategyWH\bin\Debug\net9.0\StrategyWH.exe
+C:\SJ2526\POS\StrategyWH\StrategyWH\bin\Debug\net9.0\StrategyWH.deps.json
+C:\SJ2526\POS\StrategyWH\StrategyWH\bin\Debug\net9.0\StrategyWH.runtimeconfig.json
+C:\SJ2526\POS\StrategyWH\StrategyWH\bin\Debug\net9.0\StrategyWH.dll
+C:\SJ2526\POS\StrategyWH\StrategyWH\bin\Debug\net9.0\StrategyWH.pdb
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.AssemblyInfoInputs.cache
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.AssemblyInfo.cs
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.csproj.CoreCompileInputs.cache
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.dll
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\refint\StrategyWH.dll
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.pdb
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\StrategyWH.genruntimeconfig.cache
+C:\SJ2526\POS\StrategyWH\StrategyWH\obj\Debug\net9.0\ref\StrategyWH.dll

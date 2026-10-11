@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\bin\Debug\net9.0\EventsSocialMedia.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\bin\Debug\net9.0\EventsSocialMedia.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\bin\Debug\net9.0\EventsSocialMedia.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\bin\Debug\net9.0\EventsSocialMedia.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\bin\Debug\net9.0\EventsSocialMedia.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\refint\EventsSocialMedia.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\EventsSocialMedia.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSocialMedia\EventsSocialMedia\obj\Debug\net9.0\ref\EventsSocialMedia.dll

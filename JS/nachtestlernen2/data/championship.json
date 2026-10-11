@@ -1,0 +1,180 @@
+{
+  "championship": {
+    "name": "LANtastic",
+    "edition": "IX",
+    "year": 2026
+  },
+  "games": [
+    { "name": "Valorant", "founded": 2020 },
+    { "name": "LoL", "founded": 2009 },
+    { "name": "CS2", "founded": 2023 },
+    { "name": "RocketLeague", "founded": 2015 },
+    { "name": "Fortnite", "founded": 2017 }
+  ],
+  "players": [
+    {
+      "firstName": "Laura",
+      "lastName": "Auer",
+      "game": "Valorant",
+      "roles": ["Duelist", "Captain"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Felix",
+      "lastName": "Hofer",
+      "game": "Valorant",
+      "roles": ["Initiator", "IGL"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Jakob",
+      "lastName": "Pichler",
+      "game": "Valorant",
+      "roles": ["Controller", "Scout"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Leonie",
+      "lastName": "Stocker",
+      "game": "Valorant",
+      "roles": ["Sentinel"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Berger",
+      "game": "LoL",
+      "roles": ["ADC", "Coach"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Niederlage" },
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Markus",
+      "lastName": "Fischer",
+      "game": "LoL",
+      "roles": ["Support"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Niederlage" },
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Nina",
+      "lastName": "Gruber",
+      "game": "LoL",
+      "roles": ["Mid"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Niederlage" },
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Stefan",
+      "lastName": "Huber",
+      "game": "LoL",
+      "roles": ["Jungle", "Top"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Niederlage" },
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Tobias",
+      "lastName": "Mayr",
+      "game": "CS2",
+      "roles": ["AWPer", "Entry Fragger"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Eva",
+      "lastName": "Neumann",
+      "game": "CS2",
+      "roles": ["Rifler"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Ortner",
+      "game": "CS2",
+      "roles": ["Playmaker"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Sieg" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Luca",
+      "lastName": "Amon",
+      "game": "RocketLeague",
+      "roles": ["Striker"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Niederlage" },
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Köhler",
+      "game": "RocketLeague",
+      "roles": ["Goalie"],
+      "tournaments": [
+        { "name": "European Invitational 2026", "result": "Sieg" },
+        { "name": "Summer Finals 2026", "result": "Unentschieden" }
+      ]
+    },
+    {
+      "firstName": "Max",
+      "lastName": "Riedl",
+      "game": "Fortnite",
+      "roles": ["Builder", "Editor"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Unentschieden" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    },
+    {
+      "firstName": "Julia",
+      "lastName": "Schwarz",
+      "game": "Fortnite",
+      "roles": ["Builder"],
+      "tournaments": [
+        { "name": "Winter Masters 2026", "result": "Unentschieden" },
+        { "name": "European Invitational 2026", "result": "Niederlage" },
+        { "name": "Summer Finals 2026", "result": "Sieg" }
+      ]
+    }
+  ]
+}

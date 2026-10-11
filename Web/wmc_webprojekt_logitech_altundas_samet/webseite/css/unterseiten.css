@@ -1,0 +1,48 @@
+.modelle {
+    margin: 32px 0;
+}
+
+.modell {
+    display: flex;
+    align-items: flex-start;
+    background: #222;
+    border-radius: 14px;
+    margin-bottom: 28px;
+    padding: 18px 24px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.10);
+}
+
+.modell img {
+    width: 50%;
+    object-fit: contain;
+    border-radius: 10px;
+    background: #111;
+    margin-right: 0;
+    box-shadow: 0 1px 8px rgba(0,0,0,0.10);
+    display: block;
+}
+
+.details {
+    width: 50%;
+    padding-left: 32px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.details h3 {
+    margin: 0 0 10px 0;
+    color: #fff;
+    font-size: 20px;
+}
+
+.details ul {
+    margin: 0;
+    padding-left: 18px;
+    color: #eee;
+    font-size: 16px;
+}
+
+.details li {
+    margin-bottom: 4px;
+}

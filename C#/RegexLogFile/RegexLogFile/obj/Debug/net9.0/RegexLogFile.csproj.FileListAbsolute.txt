@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\bin\Debug\net9.0\RegexLogFile.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\bin\Debug\net9.0\RegexLogFile.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\bin\Debug\net9.0\RegexLogFile.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\bin\Debug\net9.0\RegexLogFile.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\bin\Debug\net9.0\RegexLogFile.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\refint\RegexLogFile.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\RegexLogFile.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\RegexLogFile\RegexLogFile\obj\Debug\net9.0\ref\RegexLogFile.dll

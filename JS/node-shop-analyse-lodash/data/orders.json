@@ -1,0 +1,209 @@
+{
+  "orders": [
+    {
+      "id": "ORD-001",
+      "customer": { "name": "Anna Berger", "city": "Wien", "age": 24 },
+      "items": [
+        { "product": "Wireless Kopfhoerer", "category": "Elektronik", "price": 89.99, "quantity": 1 },
+        { "product": "USB-C Kabel", "category": "Zubehoer", "price": 12.50, "quantity": 3 }
+      ],
+      "date": "2025-01-15",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-002",
+      "customer": { "name": "Max Hofer", "city": "Graz", "age": 31 },
+      "items": [
+        { "product": "Mechanische Tastatur", "category": "Elektronik", "price": 134.00, "quantity": 1 },
+        { "product": "Mauspad XL", "category": "Zubehoer", "price": 24.90, "quantity": 1 }
+      ],
+      "date": "2025-01-18",
+      "paymentMethod": "paypal"
+    },
+    {
+      "id": "ORD-003",
+      "customer": { "name": "Sophie Lechner", "city": "Wien", "age": 28 },
+      "items": [
+        { "product": "Laptop-Rucksack", "category": "Taschen", "price": 59.99, "quantity": 1 }
+      ],
+      "date": "2025-01-22",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-004",
+      "customer": { "name": "Lukas Steiner", "city": "Linz", "age": 42 },
+      "items": [
+        { "product": "27-Zoll Monitor", "category": "Elektronik", "price": 349.00, "quantity": 1 },
+        { "product": "HDMI Kabel", "category": "Zubehoer", "price": 9.99, "quantity": 2 },
+        { "product": "Monitorarm", "category": "Zubehoer", "price": 45.00, "quantity": 1 }
+      ],
+      "date": "2025-02-03",
+      "paymentMethod": "bank_transfer"
+    },
+    {
+      "id": "ORD-005",
+      "customer": { "name": "Elena Wimmer", "city": "Salzburg", "age": 19 },
+      "items": [
+        { "product": "Smartphone Huelle", "category": "Zubehoer", "price": 18.50, "quantity": 2 },
+        { "product": "Displayschutzfolie", "category": "Zubehoer", "price": 7.99, "quantity": 3 }
+      ],
+      "date": "2025-02-10",
+      "paymentMethod": "paypal"
+    },
+    {
+      "id": "ORD-006",
+      "customer": { "name": "Thomas Gruber", "city": "Wien", "age": 35 },
+      "items": [
+        { "product": "Gaming Maus", "category": "Elektronik", "price": 69.99, "quantity": 1 },
+        { "product": "Mauspad XL", "category": "Zubehoer", "price": 24.90, "quantity": 1 },
+        { "product": "Webcam HD", "category": "Elektronik", "price": 54.99, "quantity": 1 }
+      ],
+      "date": "2025-02-14",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-007",
+      "customer": { "name": "Julia Pichler", "city": "Graz", "age": 27 },
+      "items": [
+        { "product": "Bluetooth Lautsprecher", "category": "Elektronik", "price": 45.00, "quantity": 1 },
+        { "product": "AUX Kabel", "category": "Zubehoer", "price": 6.99, "quantity": 1 }
+      ],
+      "date": "2025-02-20",
+      "paymentMethod": "paypal"
+    },
+    {
+      "id": "ORD-008",
+      "customer": { "name": "Markus Huber", "city": "Innsbruck", "age": 53 },
+      "items": [
+        { "product": "Externe Festplatte 2TB", "category": "Speicher", "price": 79.99, "quantity": 1 },
+        { "product": "USB-Hub 7-Port", "category": "Zubehoer", "price": 29.99, "quantity": 1 }
+      ],
+      "date": "2025-03-01",
+      "paymentMethod": "bank_transfer"
+    },
+    {
+      "id": "ORD-009",
+      "customer": { "name": "Anna Berger", "city": "Wien", "age": 24 },
+      "items": [
+        { "product": "Webcam HD", "category": "Elektronik", "price": 54.99, "quantity": 1 },
+        { "product": "Ring Light", "category": "Zubehoer", "price": 34.99, "quantity": 1 },
+        { "product": "Mikrofon USB", "category": "Elektronik", "price": 119.00, "quantity": 1 }
+      ],
+      "date": "2025-03-05",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-010",
+      "customer": { "name": "David Moser", "city": "Linz", "age": 22 },
+      "items": [
+        { "product": "USB-Stick 128GB", "category": "Speicher", "price": 15.99, "quantity": 5 }
+      ],
+      "date": "2025-03-08",
+      "paymentMethod": "paypal"
+    },
+    {
+      "id": "ORD-011",
+      "customer": { "name": "Sophie Lechner", "city": "Wien", "age": 28 },
+      "items": [
+        { "product": "Wireless Kopfhoerer", "category": "Elektronik", "price": 89.99, "quantity": 1 },
+        { "product": "Kopfhoerer-Staender", "category": "Zubehoer", "price": 19.99, "quantity": 1 }
+      ],
+      "date": "2025-03-12",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-012",
+      "customer": { "name": "Florian Mayr", "city": "Salzburg", "age": 38 },
+      "items": [
+        { "product": "Laptop-Rucksack", "category": "Taschen", "price": 59.99, "quantity": 1 },
+        { "product": "Powerbank 20000mAh", "category": "Elektronik", "price": 39.99, "quantity": 2 }
+      ],
+      "date": "2025-03-18",
+      "paymentMethod": "bank_transfer"
+    },
+    {
+      "id": "ORD-013",
+      "customer": { "name": "Max Hofer", "city": "Graz", "age": 31 },
+      "items": [
+        { "product": "Mechanische Tastatur", "category": "Elektronik", "price": 134.00, "quantity": 1 },
+        { "product": "Handgelenkauflage", "category": "Zubehoer", "price": 22.00, "quantity": 1 },
+        { "product": "Tastatur-Reinigungsset", "category": "Zubehoer", "price": 8.99, "quantity": 1 }
+      ],
+      "date": "2025-03-25",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-014",
+      "customer": { "name": "Katharina Wolf", "city": "Klagenfurt", "age": 29 },
+      "items": [
+        { "product": "SSD 1TB", "category": "Speicher", "price": 89.00, "quantity": 1 },
+        { "product": "SATA Kabel", "category": "Zubehoer", "price": 5.50, "quantity": 2 },
+        { "product": "Gehaeuse 3.5 Zoll", "category": "Zubehoer", "price": 14.99, "quantity": 1 }
+      ],
+      "date": "2025-04-02",
+      "paymentMethod": "paypal"
+    },
+    {
+      "id": "ORD-015",
+      "customer": { "name": "Thomas Gruber", "city": "Wien", "age": 35 },
+      "items": [
+        { "product": "Streaming Mikrofon", "category": "Elektronik", "price": 159.00, "quantity": 1 }
+      ],
+      "date": "2025-04-08",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-016",
+      "customer": { "name": "Elena Wimmer", "city": "Salzburg", "age": 19 },
+      "items": [
+        { "product": "Laptop-Rucksack", "category": "Taschen", "price": 59.99, "quantity": 1 },
+        { "product": "Tablet-Huelle", "category": "Zubehoer", "price": 25.99, "quantity": 1 },
+        { "product": "Bluetooth Lautsprecher", "category": "Elektronik", "price": 45.00, "quantity": 1 }
+      ],
+      "date": "2025-04-15",
+      "paymentMethod": "bank_transfer"
+    },
+    {
+      "id": "ORD-017",
+      "customer": { "name": "Alexander Bauer", "city": "Innsbruck", "age": 45 },
+      "items": [
+        { "product": "Docking Station USB-C", "category": "Elektronik", "price": 129.00, "quantity": 1 },
+        { "product": "27-Zoll Monitor", "category": "Elektronik", "price": 349.00, "quantity": 2 }
+      ],
+      "date": "2025-04-22",
+      "paymentMethod": "credit_card"
+    },
+    {
+      "id": "ORD-018",
+      "customer": { "name": "David Moser", "city": "Linz", "age": 22 },
+      "items": [
+        { "product": "Gaming Maus", "category": "Elektronik", "price": 69.99, "quantity": 1 },
+        { "product": "Mauspad XL", "category": "Zubehoer", "price": 24.90, "quantity": 1 },
+        { "product": "USB-C Kabel", "category": "Zubehoer", "price": 12.50, "quantity": 2 }
+      ],
+      "date": "2025-05-01",
+      "paymentMethod": "paypal"
+    },
+    {
+      "id": "ORD-019",
+      "customer": { "name": "Katharina Wolf", "city": "Klagenfurt", "age": 29 },
+      "items": [
+        { "product": "Externe Festplatte 2TB", "category": "Speicher", "price": 79.99, "quantity": 1 },
+        { "product": "SD-Kartenleser", "category": "Zubehoer", "price": 11.99, "quantity": 1 }
+      ],
+      "date": "2025-05-10",
+      "paymentMethod": "bank_transfer"
+    },
+    {
+      "id": "ORD-020",
+      "customer": { "name": "Julia Pichler", "city": "Graz", "age": 27 },
+      "items": [
+        { "product": "Powerbank 20000mAh", "category": "Elektronik", "price": 39.99, "quantity": 1 },
+        { "product": "USB-C Kabel", "category": "Zubehoer", "price": 12.50, "quantity": 2 },
+        { "product": "Laptop-Rucksack", "category": "Taschen", "price": 59.99, "quantity": 1 }
+      ],
+      "date": "2025-05-18",
+      "paymentMethod": "paypal"
+    }
+  ]
+}

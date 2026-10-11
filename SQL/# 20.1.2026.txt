@@ -1,0 +1,41 @@
+# 20.1.2026
+
+#1
+select concat(l_name, ' ', l_vorname) as Lehrername
+from l_lehrer
+where l_gs_geschlecht = 2
+order by l_name;
+
+#2 kein Gebdat
+select l_name, l_vorname
+from l_lehrer
+where l_gehalt is null
+order by l_name;
+
+#3
+select k_id, k_l_klavst
+from k_klassen
+where k_id like "%A%"
+order by k_l_klavst;
+
+#4
+select concat(s_name, ' ', s_vorname) AS Schülername, s_k_klasse AS Klasse, s_gebdat AS Geburtsdatum
+from s_schueler
+where s_vorname like 'T%s';
+
+#5
+select st_stunde as Stunden, st_k_klasse as Klasse, st_l_lehrer as Lehrer
+from st_stunden
+where st_g_fach = 'POS';
+
+#6 .. Allern Unterrichtsstunden der 3. HIF-Klassen (Klasse, Stunde, Fach, Lehrer)
+
+select st_k_klasse, st_stunde, st_g_fach, st_l_lehrer
+from st_stunden
+where st_k_klasse like '3_HIF'
+order by st_k_klasse, st_g_fach, st_l_lehrer;
+
+
+
+
+

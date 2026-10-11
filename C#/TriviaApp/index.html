@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trivia Quiz</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <div id="app">
+
+    <div class="lang-switch">
+      <button id="btn-lang-de" class="btn lang-btn active" type="button">Deutsch</button>
+      <button id="btn-lang-en" class="btn lang-btn" type="button">English</button>
+    </div>
+
+    <!-- ── START SCREEN ── -->
+    <div id="screen-start" class="screen active">
+      <header class="app-header">
+        <h1 class="logo">TRIVIA QUIZ</h1>
+        <p class="tagline">Powered by Open Trivia DB</p>
+      </header>
+
+      <div class="card">
+        <div class="settings-grid">
+          <div class="field">
+            <label for="s-amount">Anzahl Fragen</label>
+            <select id="s-amount">
+              <option value="5">5</option>
+              <option value="10" selected>10</option>
+              <option value="15">15</option>
+              <option value="20">20</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="s-difficulty">Schwierigkeit</label>
+            <select id="s-difficulty">
+              <option value="">Beliebig</option>
+              <option value="easy">Leicht</option>
+              <option value="medium">Mittel</option>
+              <option value="hard">Schwer</option>
+            </select>
+          </div>
+
+          <div class="field field--full">
+            <label for="s-category">Kategorie</label>
+            <select id="s-category">
+              <option value="">Beliebig</option>
+              <option value="9">General Knowledge</option>
+              <option value="10">Books</option>
+              <option value="11">Film</option>
+              <option value="12">Music</option>
+              <option value="14">Television</option>
+              <option value="15">Video Games</option>
+              <option value="17">Science &amp; Nature</option>
+              <option value="18">Computers</option>
+              <option value="19">Mathematics</option>
+              <option value="20">Mythology</option>
+              <option value="21">Sports</option>
+              <option value="22">Geography</option>
+              <option value="23">History</option>
+              <option value="25">Art</option>
+              <option value="27">Animals</option>
+            </select>
+          </div>
+        </div>
+
+        <button id="btn-start" class="btn btn--primary">Quiz starten</button>
+        <p id="start-error" class="error-msg" aria-live="polite"></p>
+      </div>
+    </div>
+
+    <!-- ── LOADING SCREEN ── -->
+    <div id="screen-loading" class="screen">
+      <div class="center-content">
+        <div class="spinner" aria-label="Lädt..."></div>
+        <p class="muted">Fragen werden geladen…</p>
+      </div>
+    </div>
+
+    <!-- ── QUIZ SCREEN ── -->
+    <div id="screen-quiz" class="screen">
+      <div class="progress-wrap">
+        <div class="progress-meta">
+          <span id="q-counter" class="muted"></span>
+          <span id="q-score" class="score-badge"></span>
+        </div>
+        <div class="progress-track">
+          <div id="progress-bar" class="progress-fill"></div>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="question-eyebrow">
+          <span id="q-num" class="eyebrow-label"></span>
+          <span id="q-difficulty" class="diff-badge"></span>
+        </div>
+        <p id="q-category" class="category-label"></p>
+        <h2 id="q-text" class="question-text"></h2>
+
+        <div id="answers-grid" class="answers-grid" role="group" aria-label="Antwortoptionen"></div>
+
+        <div class="feedback-row">
+          <p id="feedback-text" class="feedback-text" aria-live="polite"></p>
+          <button id="btn-next" class="btn btn--primary btn--small hidden">Weiter →</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ── RESULT SCREEN ── -->
+    <div id="screen-result" class="screen">
+      <div class="card result-card">
+        <p class="result-label">Dein Ergebnis</p>
+        <div class="result-score">
+          <span id="r-score"></span>
+          <span id="r-total" class="result-total"></span>
+        </div>
+        <p id="r-message" class="result-message"></p>
+        <div class="result-actions">
+          <button id="btn-restart" class="btn btn--primary">Nochmal spielen</button>
+          <button id="btn-home" class="btn btn--ghost">Einstellungen</button>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /#app -->
+
+  <script src="js/api.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

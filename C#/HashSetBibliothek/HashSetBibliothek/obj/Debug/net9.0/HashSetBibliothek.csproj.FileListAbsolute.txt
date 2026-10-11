@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\bin\Debug\net9.0\HashSetBibliothek.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\bin\Debug\net9.0\HashSetBibliothek.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\bin\Debug\net9.0\HashSetBibliothek.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\bin\Debug\net9.0\HashSetBibliothek.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\bin\Debug\net9.0\HashSetBibliothek.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\refint\HashSetBibliothek.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\HashSetBibliothek.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\HashSetBibliothek\HashSetBibliothek\obj\Debug\net9.0\ref\HashSetBibliothek.dll

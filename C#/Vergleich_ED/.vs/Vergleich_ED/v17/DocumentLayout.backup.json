@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Vergleich_ED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3452693D-C355-4D60-B5DA-227411E1191E}|Vergleich_ED\\Vergleich_ED.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\vergleich_ed\\vergleich_ed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452693D-C355-4D60-B5DA-227411E1191E}|Vergleich_ED\\Vergleich_ED.csproj|solutionrelative:vergleich_ed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3452693D-C355-4D60-B5DA-227411E1191E}|Vergleich_ED\\Vergleich_ED.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\vergleich_ed\\vergleich_ed\\vergleich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3452693D-C355-4D60-B5DA-227411E1191E}|Vergleich_ED\\Vergleich_ED.csproj|solutionrelative:vergleich_ed\\vergleich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vergleich.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Vergleich_ED\\Vergleich_ED\\Vergleich.cs",
+              "RelativeDocumentMoniker": "Vergleich_ED\\Vergleich.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Vergleich_ED\\Vergleich_ED\\Vergleich.cs",
+              "RelativeToolTip": "Vergleich_ED\\Vergleich.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:35:15.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Vergleich_ED\\Vergleich_ED\\Program.cs",
+              "RelativeDocumentMoniker": "Vergleich_ED\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Vergleich_ED\\Vergleich_ED\\Program.cs",
+              "RelativeToolTip": "Vergleich_ED\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:34:58.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

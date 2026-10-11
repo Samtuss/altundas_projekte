@@ -1,0 +1,44 @@
+/* RECHTE SPALTE */
+	aside {
+		/* ERGÄNZUNGEN? */
+	}
+
+	aside img {
+		/* ERGÄNZUNGEN? */
+		display: block;
+		height: auto;
+		width: 175px;
+		border: solid 1px white;
+		margin-bottom: 5px;
+		margin-right: 25px;
+	}
+
+
+/* INHALTE MITTLERE SPALTE */
+	article {
+		/* ERGÄNZUNGEN? ALLES ERLAUBT AUSSER POSITIONIERUNG */	
+	}
+
+	section h1 {
+		/* ERGÄNZUNGEN? */
+		color: orange;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		font-size: medium;
+	}
+
+
+	section a {
+		/* ERGÄNZUNGEN? */
+		color: white;
+	}
+
+	section img {
+		/* ERGÄNZUNGEN? */	
+		width: 175px;
+		height: 125px;
+		float: left;
+		margin-right: 10px;
+		margin-bottom: 4px;
+	}
+	

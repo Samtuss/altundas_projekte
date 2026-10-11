@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace TicTacToe
+{
+    internal class RandomStrategy : IStrategy
+    {
+        public int currentPlayer = 0; // 1 for player 1 (X), -1 for player 2 (O)
+        public int[,] ComputerMove(int[,] board)
+        {
+            List<(int, int)> availableMoves = new List<(int, int)>();
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if (board[i, j] == 0)
+                    {
+                        availableMoves.Add((i, j));
+                    }
+                }
+            }
+            if (availableMoves.Count == 0) return board; // No moves left
+            Random rand = new Random();
+            var move = availableMoves[rand.Next(availableMoves.Count)];
+            board[move.Item1, move.Item2] = currentPlayer;
+            currentPlayer *= -1; // Switch player
+            return board;
+        }
+    }
+}

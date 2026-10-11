@@ -1,0 +1,90 @@
+{
+  "school": {
+    "name": "HTL Donaustadt",
+    "address": {
+      "street": "Donaustadtstraße 45",
+      "zip": "1220",
+      "city": "Wien",
+      "country": "Österreich",
+      "coordinates": {
+        "latitude": 48.2352,
+        "longitude": 16.4633
+      }
+    },
+    "founded": 1983,
+    "website": "https://www.htl-donaustadt.at",
+    "departments": ["Informatik", "Elektronik", "Mechatronik"],
+    "classes": [
+      {
+        "name": "3AHIF",
+        "year": 3,
+        "department": "Informatik",
+        "classTeacher": "Mag. Müller",
+        "students": [
+          {
+            "firstName": "Anna",
+            "lastName": "Berger",
+            "age": 17,
+            "grades": { "WMC": 2, "POS": 1, "DBI": 3, "NWT": 2 },
+            "hobbies": ["Programmieren", "Schach", "Lesen"]
+          },
+          {
+            "firstName": "Lukas",
+            "lastName": "Steiner",
+            "age": 18,
+            "grades": { "WMC": 1, "POS": 2, "DBI": 1, "NWT": 3 },
+            "hobbies": ["Gaming", "Fußball"]
+          },
+          {
+            "firstName": "Sophie",
+            "lastName": "Wagner",
+            "age": 17,
+            "grades": { "WMC": 1, "POS": 1, "DBI": 2, "NWT": 1 },
+            "hobbies": ["Musik", "Programmieren", "Wandern", "Kochen"]
+          }
+        ]
+      },
+      {
+        "name": "3BHIF",
+        "year": 3,
+        "department": "Informatik",
+        "classTeacher": "DI Gruber",
+        "students": [
+          {
+            "firstName": "Max",
+            "lastName": "Huber",
+            "age": 17,
+            "grades": { "WMC": 3, "POS": 2, "DBI": 2, "NWT": 4 },
+            "hobbies": ["Basketball", "Filme"]
+          },
+          {
+            "firstName": "Elena",
+            "lastName": "Novak",
+            "age": 18,
+            "grades": { "WMC": 1, "POS": 1, "DBI": 1, "NWT": 2 },
+            "hobbies": ["Robotik", "Lesen", "Tanzen"]
+          },
+          {
+            "firstName": "David",
+            "lastName": "Wimmer",
+            "age": 17,
+            "grades": { "WMC": 2, "POS": 3, "DBI": 2, "NWT": 2 },
+            "hobbies": ["Gaming", "Radfahren"]
+          },
+          {
+            "firstName": "Mia",
+            "lastName": "Bauer",
+            "age": 17,
+            "grades": { "WMC": 2, "POS": 2, "DBI": 1, "NWT": 1 },
+            "hobbies": ["Fotografie", "Programmieren", "Yoga"]
+          }
+        ]
+      }
+    ],
+    "events": [
+      { "name": "Tag der offenen Tür", "date": "2026-01-17", "location": "Hauptgebäude" },
+      { "name": "Hackathon", "date": "2026-03-20", "location": "Informatik-Labor" },
+      { "name": "Sommerfest", "date": "2026-06-25", "location": "Schulhof" }
+    ]
+  }
+}

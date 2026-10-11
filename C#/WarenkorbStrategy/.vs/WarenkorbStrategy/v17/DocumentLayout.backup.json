@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\warenkorbstrategy\\warenkorbstrategy\\rabattrechner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|solutionrelative:warenkorbstrategy\\rabattrechner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\warenkorbstrategy\\warenkorbstrategy\\preisanzeige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|solutionrelative:warenkorbstrategy\\preisanzeige.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\warenkorbstrategy\\warenkorbstrategy\\warenkorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|solutionrelative:warenkorbstrategy\\warenkorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\warenkorbstrategy\\warenkorbstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|solutionrelative:warenkorbstrategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\warenkorbstrategy\\warenkorbstrategy\\warenkorblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0863FBD-D9EE-40D9-908C-58AFFCB81056}|WarenkorbStrategy\\WarenkorbStrategy.csproj|solutionrelative:warenkorbstrategy\\warenkorblogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\Program.cs",
+              "RelativeDocumentMoniker": "WarenkorbStrategy\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\Program.cs",
+              "RelativeToolTip": "WarenkorbStrategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T08:48:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabattRechner.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\RabattRechner.cs",
+              "RelativeDocumentMoniker": "WarenkorbStrategy\\RabattRechner.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\RabattRechner.cs",
+              "RelativeToolTip": "WarenkorbStrategy\\RabattRechner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:22:42.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreisAnzeige.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\PreisAnzeige.cs",
+              "RelativeDocumentMoniker": "WarenkorbStrategy\\PreisAnzeige.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\PreisAnzeige.cs",
+              "RelativeToolTip": "WarenkorbStrategy\\PreisAnzeige.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:16:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warenkorb.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\Warenkorb.cs",
+              "RelativeDocumentMoniker": "WarenkorbStrategy\\Warenkorb.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\Warenkorb.cs",
+              "RelativeToolTip": "WarenkorbStrategy\\Warenkorb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:00:38.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WarenkorbLogger.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\WarenkorbLogger.cs",
+              "RelativeDocumentMoniker": "WarenkorbStrategy\\WarenkorbLogger.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\WarenkorbStrategy\\WarenkorbStrategy\\WarenkorbLogger.cs",
+              "RelativeToolTip": "WarenkorbStrategy\\WarenkorbLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:10:20.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--PRODUKTE-->
+<html>
+    <head>
+        <title>Produkte</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/barrierefrei.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../html/index.html">
+                            <img id="logo" src="../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <img src="../bilder/sonstige/faq_bild.png" alt="FAQ-Bild">
+                <img src="../bilder/sonstige/support_bild.jpg" alt="Support-Bild">
+            </nav>
+
+            <article>
+                <section>
+                    <h1>Support & Kontakt</h1>
+                    <h2>FAQ</h2>
+                    <hr>
+                    <h4>Häufig gestellte Fragen</h4>
+                    <ol>
+                        <li>Welche Logitech-Maus ist am besten für Gaming geeignet?</li>
+                        <li>Wo kann ich Logitech-Produkte kaufen?</li>
+                        <li>Wo kann ich die Logitech G HUB oder Logitech Options Software herunterladen?</li>
+                        <li>Wie lange ist die Garantie auf Logitech-Produkte?</li>
+                        <li>Sind Logitech-Produkte kompatibel mit Mac und Windows?</li>
+                    </ol>
+                </section>
+                <section>
+                    <h4>Antworten von Benutzern:</h4>
+                    <ol>
+                        <li>Preis-Leistung: Logitech G502 / Top-Performance: Logitech Pro Wireless x Superlight 2.</li>
+                        <li>Über den Webshop von 
+                            <a href="https://www.logitech.com/de-at">Logitech</a>, oder über persönlich bei Händlern wie z.B Mediamarkt.
+                        </li>
+                        <li>Über das Internet.</li>
+                        <li>Bis zu 3 Jahren.</li>
+                        <li>Ja, die meisten Logitech-Produkte sind mit MAC/Windows kompatibel.</li>
+                    </ol>
+                </section>
+                <section>
+                    <h2>Probleme? - Kontaktieren Sie unseren Support über:</h2>
+                    <ul>
+                        <li>
+                            <a href="mailto:230016@studierende.htl-donaustadt.at"> 230016@studierende.htl-donaustadt.at</a>
+                        </li>
+                        <li>
+                            <a href="tel:+1 555 12345">Tel: +1 555 12345</a>
+                        </li>
+                    </ul>
+                </section>
+                
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

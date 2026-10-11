@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\chatchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\chatchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\chatuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\messagelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\messagelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\observerpattern\\observerpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE60935-8780-4AA2-870F-C5D6E7AB11FD}|ObserverPattern\\ObserverPattern.csproj|solutionrelative:observerpattern\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\Program.cs",
+              "RelativeToolTip": "ObserverPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:31:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageLogger.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\MessageLogger.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\MessageLogger.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\MessageLogger.cs",
+              "RelativeToolTip": "ObserverPattern\\MessageLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:49:12.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatBot.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ChatBot.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\ChatBot.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ChatBot.cs",
+              "RelativeToolTip": "ObserverPattern\\ChatBot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:34:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ISubject.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\ISubject.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ISubject.cs",
+              "RelativeToolTip": "ObserverPattern\\ISubject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:32:03.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\IObserver.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\IObserver.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\IObserver.cs",
+              "RelativeToolTip": "ObserverPattern\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:31:16.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatUser.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ChatUser.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\ChatUser.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ChatUser.cs",
+              "RelativeToolTip": "ObserverPattern\\ChatUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:31:15.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatChannel.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ChatChannel.cs",
+              "RelativeDocumentMoniker": "ObserverPattern\\ChatChannel.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\ObserverPattern\\ObserverPattern\\ChatChannel.cs",
+              "RelativeToolTip": "ObserverPattern\\ChatChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T06:31:15.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

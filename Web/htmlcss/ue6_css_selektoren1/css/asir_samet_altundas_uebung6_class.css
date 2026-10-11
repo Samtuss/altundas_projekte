@@ -1,0 +1,12 @@
+.zusatzinfos {
+    color: #aaaaaa;
+}
+.inhalt_wichtig {
+    color: #333333;
+}
+.alt {
+    text-decoration: line-through; 
+}
+.norm_absatz {
+    border: 2px double #5f7cc4;
+}

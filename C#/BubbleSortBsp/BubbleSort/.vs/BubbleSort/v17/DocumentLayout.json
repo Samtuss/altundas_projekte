@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\BubbleSortBsp\\BubbleSort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33F866A-44F8-482F-A76C-F837D53DE214}|BubbleSort\\BubbleSortClass.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\bubblesortbsp\\bubblesort\\bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33F866A-44F8-482F-A76C-F837D53DE214}|BubbleSort\\BubbleSortClass.csproj|solutionrelative:bubblesort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33F866A-44F8-482F-A76C-F837D53DE214}|BubbleSort\\BubbleSortClass.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\bubblesortbsp\\bubblesort\\bubblesort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33F866A-44F8-482F-A76C-F837D53DE214}|BubbleSort\\BubbleSortClass.csproj|solutionrelative:bubblesort\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\BubbleSortBsp\\BubbleSort\\BubbleSort\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\BubbleSort.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\BubbleSortBsp\\BubbleSort\\BubbleSort\\BubbleSort.cs",
+              "RelativeToolTip": "BubbleSort\\BubbleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:18:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\BubbleSortBsp\\BubbleSort\\BubbleSort\\Program.cs",
+              "RelativeDocumentMoniker": "BubbleSort\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\BubbleSortBsp\\BubbleSort\\BubbleSort\\Program.cs",
+              "RelativeToolTip": "BubbleSort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:17:01.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

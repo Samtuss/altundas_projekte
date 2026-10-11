@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2D52B-67D5-493A-9D3C-4CE3AF5CF884}|TextUhr\\TextUhr.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\textuhr\\textuhr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB2D52B-67D5-493A-9D3C-4CE3AF5CF884}|TextUhr\\TextUhr.csproj|solutionrelative:textuhr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2D52B-67D5-493A-9D3C-4CE3AF5CF884}|TextUhr\\TextUhr.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\textuhr\\textuhr\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB2D52B-67D5-493A-9D3C-4CE3AF5CF884}|TextUhr\\TextUhr.csproj|solutionrelative:textuhr\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB2D52B-67D5-493A-9D3C-4CE3AF5CF884}|TextUhr\\TextUhr.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\textuhr\\textuhr\\gettimeastext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB2D52B-67D5-493A-9D3C-4CE3AF5CF884}|TextUhr\\TextUhr.csproj|solutionrelative:textuhr\\gettimeastext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTimeAsText.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\TextUhr\\GetTimeAsText.cs",
+              "RelativeDocumentMoniker": "TextUhr\\GetTimeAsText.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\TextUhr\\GetTimeAsText.cs",
+              "RelativeToolTip": "TextUhr\\GetTimeAsText.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T08:29:13.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enums.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\TextUhr\\enums.cs",
+              "RelativeDocumentMoniker": "TextUhr\\enums.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\TextUhr\\enums.cs",
+              "RelativeToolTip": "TextUhr\\enums.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:49:58.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\TextUhr\\Program.cs",
+              "RelativeDocumentMoniker": "TextUhr\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\TextUhr\\TextUhr\\Program.cs",
+              "RelativeToolTip": "TextUhr\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:32:00.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

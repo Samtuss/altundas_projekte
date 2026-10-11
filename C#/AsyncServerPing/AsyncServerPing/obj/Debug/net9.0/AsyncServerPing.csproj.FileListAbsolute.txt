@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\bin\Debug\net9.0\AsyncServerPing.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\bin\Debug\net9.0\AsyncServerPing.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\bin\Debug\net9.0\AsyncServerPing.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\bin\Debug\net9.0\AsyncServerPing.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\bin\Debug\net9.0\AsyncServerPing.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\refint\AsyncServerPing.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\AsyncServerPing.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncServerPing\AsyncServerPing\obj\Debug\net9.0\ref\AsyncServerPing.dll

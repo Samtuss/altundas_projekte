@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\bin\Debug\net9.0\UnitTestsTaschenrechner.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\bin\Debug\net9.0\UnitTestsTaschenrechner.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\bin\Debug\net9.0\UnitTestsTaschenrechner.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\bin\Debug\net9.0\UnitTestsTaschenrechner.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\bin\Debug\net9.0\UnitTestsTaschenrechner.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\refint\UnitTestsTaschenrechner.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\UnitTestsTaschenrechner.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\UnitTestsTaschenrechner\UnitTestsTaschenrechner\obj\Debug\net9.0\ref\UnitTestsTaschenrechner.dll

@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\bin\Debug\net9.0\LZK_EventsDelegates_Lambda.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\bin\Debug\net9.0\LZK_EventsDelegates_Lambda.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\bin\Debug\net9.0\LZK_EventsDelegates_Lambda.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\bin\Debug\net9.0\LZK_EventsDelegates_Lambda.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\bin\Debug\net9.0\LZK_EventsDelegates_Lambda.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\refint\LZK_EventsDelegates_Lambda.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\LZK_EventsDelegates_Lambda.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LZK_EventsDelegates_Lambda\LZK_EventsDelegates_Lambda\obj\Debug\net9.0\ref\LZK_EventsDelegates_Lambda.dll

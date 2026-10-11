@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\textoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\textoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\itextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\itextformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\htmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\htmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\xmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\xmlformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\markdownformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\markdownformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\designpattern\\designpattern\\plainformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{421806D0-9E98-44D4-90F8-66D3F31A72A6}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\plainformatter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "DesignPattern\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:44.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextOutput.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\TextOutput.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\TextOutput.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\TextOutput.cs",
+              "RelativeToolTip": "DesignPattern\\TextOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:41.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITextFormatter.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\ITextFormatter.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\ITextFormatter.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\ITextFormatter.cs",
+              "RelativeToolTip": "DesignPattern\\ITextFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlFormatter.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\HtmlFormatter.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\HtmlFormatter.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\HtmlFormatter.cs",
+              "RelativeToolTip": "DesignPattern\\HtmlFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:46.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarkDownFormatter.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\MarkDownFormatter.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\MarkDownFormatter.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\MarkDownFormatter.cs",
+              "RelativeToolTip": "DesignPattern\\MarkDownFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:45.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlainFormatter.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\PlainFormatter.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\PlainFormatter.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\PlainFormatter.cs",
+              "RelativeToolTip": "DesignPattern\\PlainFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:45.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XmlFormatter.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\XmlFormatter.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\XmlFormatter.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\DesignPattern\\DesignPattern\\XmlFormatter.cs",
+              "RelativeToolTip": "DesignPattern\\XmlFormatter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:13:39.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

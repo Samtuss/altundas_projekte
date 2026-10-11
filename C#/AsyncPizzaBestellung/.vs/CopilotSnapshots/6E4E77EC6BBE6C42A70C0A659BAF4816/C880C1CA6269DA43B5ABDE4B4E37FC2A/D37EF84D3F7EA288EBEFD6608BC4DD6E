@@ -1,0 +1,228 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
+
+// ============================================================
+// MUSTERLÖSUNG: Pizza-Bestellung
+// WhenAny + SemaphoreSlim + CancellationToken
+// ============================================================
+
+// --- Ergebnis-Klasse (war in der Angabe vorgegeben) ---
+class BestellErgebnis
+{
+    public string Filiale { get; set; }
+    public string Bezirk { get; set; }
+    public bool Bestaetigt { get; set; }
+    public long AntwortZeitMs { get; set; }
+}
+
+class Program
+{
+    // SemaphoreSlim als statisches Feld – alle Tasks teilen sich dieselben 2 Leitungen.
+    // WARUM static? Weil der Semaphore den GEMEINSAMEN Zugang begrenzt,
+    // nicht pro Task einen eigenen.
+    static SemaphoreSlim leitungen = new SemaphoreSlim(2);
+
+    // Ein Random-Objekt für alle Tasks. NICHT in der Methode neu erstellen,
+    // sonst bekommen Tasks, die fast gleichzeitig starten, denselben Seed
+    // und damit dieselbe "zufällige" Antwortzeit.
+    static Random random = new Random();
+
+    static async Task Main()
+    {
+        Console.WriteLine("   PIZZA-BESTELLUNG");
+        Console.WriteLine("   Kontaktiere 5 Filialen (2 Leitungen verfügbar)...\n");
+
+        // --- Filial-Konfiguration ---
+        // Jede Filiale hat: Name, Bezirk, min/max Antwortzeit in ms
+        List<(string, string, int, int)> filialen = new List<(string Name, string Bezirk, int MinMs, int MaxMs)>
+        {
+            ("Filiale 1", "Mariahilf",   200, 600),
+            ("Filiale 2", "Neubau",      250, 700),
+            ("Filiale 3", "Josefstadt",  300, 800),
+            ("Filiale 4", "Alsergrund",  350, 900),
+            ("Filiale 5", "Hernals",     400, 1000)
+        };
+
+        // --- CancellationTokenSource ---
+        // EINE Source für ALLE Tasks. Wenn wir Cancel() aufrufen,
+        // erhalten ALLE Tasks das Signal über dasselbe Token.
+        CancellationTokenSource cts = new CancellationTokenSource();
+
+        // --- Alle Tasks parallel starten ---
+        // WICHTIG: Wir speichern die Task-Objekte in einer Liste.
+        // KEIN await hier! Sonst würden die Tasks nacheinander laufen.
+        List<Task<BestellErgebnis>> tasks = new List<Task<BestellErgebnis>>();
+        foreach ((string Name, string Bezirk, int MinMs, int MaxMs) filiale in filialen)
+        {
+            // Jede Filiale bekommt die "Angefunkt"-Meldung SOFORT beim Start
+            Console.WriteLine($"{filiale.Name} ({filiale.Bezirk}):  Leitung belegt – warte...");
+
+            // Task starten, aber NICHT awaiten – nur in die Liste legen
+            Task<BestellErgebnis> task = BestellungAnfragenAsync(
+                filiale.Name, filiale.Bezirk,
+                filiale.MinMs, filiale.MaxMs,
+                cts.Token
+            );
+            tasks.Add(task);
+        }
+
+        Console.WriteLine(); // Leerzeile nach den Startmeldungen
+
+        // --- WhenAny-Schleife: Auf Bestätigung warten ---
+        // WARUM eine Schleife? Wegen des Bonus: Eine Filiale kann ABSAGEN.
+        // Dann müssen wir auf die nächste warten. Ohne Bonus würde ein
+        // einzelnes WhenAny reichen.
+        BestellErgebnis gewinner = null;
+
+        while (tasks.Count > 0)
+        {
+            // WhenAny gibt den TASK zurück, der als erster fertig ist.
+            // ACHTUNG: Das ist der Task selbst, nicht das Ergebnis!
+            Task<Task<BestellErgebnis>> whenAnyTask = Task.WhenAny(tasks);
+            Task<BestellErgebnis> fertigerTask = await whenAnyTask;
+
+            // Zweites await: Ergebnis aus dem fertigen Task "auspacken".
+            // Blockiert NICHT, weil der Task ja schon fertig ist.
+            BestellErgebnis ergebnis = await fertigerTask;
+
+            // SOFORT den fertigen Task aus der Liste entfernen!
+            // Sonst gibt WhenAny beim nächsten Durchlauf denselben Task zurück.
+            tasks.Remove(fertigerTask);
+
+            if (ergebnis.Bestaetigt)
+            {
+                // Filiale hat bestätigt → Gewinner gefunden!
+                Console.WriteLine(
+                    $"{ergebnis.Filiale} ({ergebnis.Bezirk}):  " +
+                    $"✔ Auftrag bestätigt! ({ergebnis.AntwortZeitMs} ms)"
+                );
+                gewinner = ergebnis;
+
+                // SOFORT nach dem Gewinner: Alle anderen abbrechen.
+                // WARUM sofort? Wenn wir hier warten oder erst ausgeben,
+                // laufen die anderen Tasks unnötig weiter.
+                cts.Cancel();
+                break; // Raus aus der Schleife
+            }
+            else
+            {
+                // BONUS: Filiale hat ABGESAGT (25% Wahrscheinlichkeit)
+                Console.WriteLine(
+                    $"{ergebnis.Filiale} ({ergebnis.Bezirk}):  " +
+                    $"✘ Abgesagt ({ergebnis.AntwortZeitMs} ms)"
+                );
+                // Schleife läuft weiter → WhenAny auf die restlichen Tasks
+            }
+        }
+
+        // --- Auf verbleibende Tasks warten ---
+        // WARUM? Die gecancelten Tasks werfen OperationCanceledException.
+        // Wenn wir sie nicht abwarten, gibt es "unobserved task exceptions".
+        // Die Exceptions sind erwartet und werden hier sauber abgefangen.
+        foreach (Task<BestellErgebnis> task in tasks)
+        {
+            try
+            {
+                BestellErgebnis ergebnis = await task;
+                // Falls ein Task doch noch fertig wurde, bevor Cancel griff:
+                Console.WriteLine(
+                    $"{ergebnis.Filiale} ({ergebnis.Bezirk}):  ✗ Storniert"
+                );
+            }
+            catch (OperationCanceledException)
+            {
+                // Erwartetes Verhalten: Task wurde erfolgreich abgebrochen.
+                // Wir können hier nichts mehr über die Filiale ausgeben,
+                // weil der Task kein Ergebnis zurückgegeben hat.
+            }
+        }
+
+        // --- Endergebnis ---
+        Console.WriteLine();
+        Console.WriteLine("══════════════════════════════════════════════");
+        if (gewinner != null)
+        {
+            Console.WriteLine($"   Bestellung vergeben an:");
+            Console.WriteLine(
+                $"   {gewinner.Filiale} ({gewinner.Bezirk}) – " +
+                $"{gewinner.AntwortZeitMs} ms"
+            );
+        }
+        else
+        {
+            // BONUS: Alle Filialen haben abgesagt
+            Console.WriteLine("   Keine Filiale verfügbar! Bestellung fehlgeschlagen.");
+        }
+        Console.WriteLine("══════════════════════════════════════════════");
+    }
+
+    /// <summary>
+    /// Simuliert die Anfrage an eine einzelne Filiale.
+    /// REIHENFOLGE DER OPERATIONEN (das ist der wichtigste Teil!):
+    /// 1. WaitAsync → auf freie Leitung warten
+    /// 2. "Verbunden" ausgeben
+    /// 3. Task.Delay → Antwortzeit simulieren
+    /// 4. Ergebnis zurückgeben
+    /// 5. Release → Leitung freigeben (IMMER, auch bei Cancel!)
+    /// </summary>
+    static async Task<BestellErgebnis> BestellungAnfragenAsync(
+        string filiale, string bezirk,
+        int minMs, int maxMs,
+        CancellationToken token)
+    {
+        var stopwatch = Stopwatch.StartNew();
+
+        // SCHRITT 1: Auf freie Leitung warten.
+        // WaitAsync blockiert, bis einer der 2 Semaphore-Plätze frei ist.
+        // Das Token wird übergeben → wenn Cancel() kommt WÄHREND wir warten,
+        // wird eine OperationCanceledException geworfen.
+        await leitungen.WaitAsync(token);
+
+        // Ab hier haben wir eine Leitung belegt.
+        // ALLES was jetzt kommt MUSS in try/finally stehen,
+        // damit die Leitung GARANTIERT freigegeben wird.
+        try
+        {
+            // SCHRITT 2: Wir sind verbunden – das SOFORT melden.
+            // HÄUFIGER FEHLER: Diese Meldung NACH dem Delay ausgeben.
+            // Das ist falsch, weil die Verbindung ja VOR der Bearbeitung steht.
+            Console.WriteLine($"{filiale} ({bezirk}):  Verbunden – frage an...");
+
+            // SCHRITT 3: Antwortzeit simulieren.
+            // Das Token wird auch hier übergeben → Cancel() unterbricht den Delay.
+            int antwortZeit = random.Next(minMs, maxMs + 1);
+            await Task.Delay(antwortZeit, token);
+
+            // SCHRITT 4: Ergebnis erzeugen
+            stopwatch.Stop();
+
+            // BONUS: 25% Wahrscheinlichkeit, dass die Filiale absagt
+            bool hatBestaetigt = random.Next(100) >= 25;
+
+            return new BestellErgebnis
+            {
+                Filiale = filiale,
+                Bezirk = bezirk,
+                Bestaetigt = hatBestaetigt,
+                AntwortZeitMs = stopwatch.ElapsedMilliseconds
+            };
+        }
+        finally
+        {
+            // SCHRITT 5: Leitung freigeben – IMMER!
+            // WARUM finally? Weil dieser Block ausgeführt wird egal was passiert:
+            // - Normale Rückgabe → Release
+            // - OperationCanceledException → Release
+            // - Jede andere Exception → Release
+            //
+            // HÄUFIGSTER FEHLER im Test: Release nur im try-Block oder nur
+            // im catch-Block. Dann bleibt die Leitung bei Cancel blockiert
+            // und die wartenden Tasks hängen EWIG.
+            leitungen.Release();
+        }
+    }
+}

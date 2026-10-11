@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5957FB7E-B3A8-4A07-BD6F-7300E6ABB2E2}|1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\1-test-teilnehmerverwaltung\\1-test-teilnehmerverwaltung\\verwaltung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957FB7E-B3A8-4A07-BD6F-7300E6ABB2E2}|1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung.csproj|solutionrelative:1-test-teilnehmerverwaltung\\verwaltung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957FB7E-B3A8-4A07-BD6F-7300E6ABB2E2}|1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\1-test-teilnehmerverwaltung\\1-test-teilnehmerverwaltung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957FB7E-B3A8-4A07-BD6F-7300E6ABB2E2}|1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung.csproj|solutionrelative:1-test-teilnehmerverwaltung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5957FB7E-B3A8-4A07-BD6F-7300E6ABB2E2}|1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\1-test-teilnehmerverwaltung\\1-test-teilnehmerverwaltung\\teilnehmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5957FB7E-B3A8-4A07-BD6F-7300E6ABB2E2}|1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung.csproj|solutionrelative:1-test-teilnehmerverwaltung\\teilnehmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Verwaltung.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung\\Verwaltung.cs",
+              "RelativeDocumentMoniker": "1-Test-Teilnehmerverwaltung\\Verwaltung.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung\\Verwaltung.cs",
+              "RelativeToolTip": "1-Test-Teilnehmerverwaltung\\Verwaltung.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:43:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teilnehmer.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung\\Teilnehmer.cs",
+              "RelativeDocumentMoniker": "1-Test-Teilnehmerverwaltung\\Teilnehmer.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung\\Teilnehmer.cs",
+              "RelativeToolTip": "1-Test-Teilnehmerverwaltung\\Teilnehmer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:36:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung\\Program.cs",
+              "RelativeDocumentMoniker": "1-Test-Teilnehmerverwaltung\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\1-Test-Teilnehmerverwaltung\\1-Test-Teilnehmerverwaltung\\Program.cs",
+              "RelativeToolTip": "1-Test-Teilnehmerverwaltung\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:35:26.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

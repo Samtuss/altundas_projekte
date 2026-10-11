@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A31DA693-3709-478A-ABC5-0F4AA3A5ACCA}|Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\lernf\u00E4cher_verwaltung\\lernf\u00E4cher_verwaltung\\studytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DA693-3709-478A-ABC5-0F4AA3A5ACCA}|Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung.csproj|solutionrelative:lernf\u00E4cher_verwaltung\\studytracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31DA693-3709-478A-ABC5-0F4AA3A5ACCA}|Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\lernf\u00E4cher_verwaltung\\lernf\u00E4cher_verwaltung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DA693-3709-478A-ABC5-0F4AA3A5ACCA}|Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung.csproj|solutionrelative:lernf\u00E4cher_verwaltung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A31DA693-3709-478A-ABC5-0F4AA3A5ACCA}|Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\lernf\u00E4cher_verwaltung\\lernf\u00E4cher_verwaltung\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A31DA693-3709-478A-ABC5-0F4AA3A5ACCA}|Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung.csproj|solutionrelative:lernf\u00E4cher_verwaltung\\studysession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudyTracker.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung\\StudyTracker.cs",
+              "RelativeDocumentMoniker": "Lernf\u00E4cher_Verwaltung\\StudyTracker.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung\\StudyTracker.cs",
+              "RelativeToolTip": "Lernf\u00E4cher_Verwaltung\\StudyTracker.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:41:01.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudySession.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung\\StudySession.cs",
+              "RelativeDocumentMoniker": "Lernf\u00E4cher_Verwaltung\\StudySession.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung\\StudySession.cs",
+              "RelativeToolTip": "Lernf\u00E4cher_Verwaltung\\StudySession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:39:47.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung\\Program.cs",
+              "RelativeDocumentMoniker": "Lernf\u00E4cher_Verwaltung\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\Lernf\u00E4cher_Verwaltung\\Lernf\u00E4cher_Verwaltung\\Program.cs",
+              "RelativeToolTip": "Lernf\u00E4cher_Verwaltung\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:39:03.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

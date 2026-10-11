@@ -1,0 +1,124 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--GAMINGTASTATUREN-->
+<html>
+    <head>
+        <title>Gamingtastaturen</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/unterseiten.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/barrierefrei.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../../html/index.html">
+                            <img id="logo" src="../../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <ol>
+                    <li><a href="#pro_serie">Pro-Serie</a></li>
+                    <li><a href="#g_serie">G-Serie</a></li>
+                </ol>
+            </nav>
+
+            <article>
+                <section>
+                    <h2 id="pro_serie">Pro-Serie</h2>
+                    <div class="modelle">
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/tastatur/pro_x_tkl.jpg" alt="PRO X TKL">
+                            <div class="details">
+                                <h3>PRO X TKL</h3>
+                                <ul>
+                                    <li>Tenkeyless Design</li>
+                                    <li>GX Switches (Linear, Tactile, Clicky)</li>
+                                    <li>Lightspeed Wireless & Bluetooth</li>
+                                    <li>RGB-Beleuchtung</li>
+                                    <li>Abnehmbares Kabel</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/tastatur/pro_x_60.jpg" alt="PRO X 60">
+                            <div class="details">
+                                <h3>PRO X 60</h3>
+                                <ul>
+                                    <li>60% kompaktes Layout</li>
+                                    <li>GX Optical Switches</li>
+                                    <li>Lightspeed Wireless & Bluetooth</li>
+                                    <li>RGB-Beleuchtung</li>
+                                    <li>Programmierbare Tasten</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <h2 id="g_serie">G-Serie</h2>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/tastatur/g715tkl.jpg" alt="G715 TKL">
+                            <div class="details">
+                                <h3>G715 TKL</h3>
+                                <ul>
+                                    <li>Tenkeyless Design</li>
+                                    <li>GX Switches</li>
+                                    <li>Lightspeed Wireless & Bluetooth</li>
+                                    <li>Cloud-Soft Handballenauflage</li>
+                                    <li>RGB-Beleuchtung</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/tastatur/g915.jpg" alt="G915">
+                            <div class="details">
+                                <h3>G915</h3>
+                                <ul>
+                                    <li>Ultra-dünnes Design</li>
+                                    <li>GL Switches (Linear, Tactile, Clicky)</li>
+                                    <li>Lightspeed Wireless & Bluetooth</li>
+                                    <li>RGB-Beleuchtung</li>
+                                    <li>Aluminium-Gehäuse</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

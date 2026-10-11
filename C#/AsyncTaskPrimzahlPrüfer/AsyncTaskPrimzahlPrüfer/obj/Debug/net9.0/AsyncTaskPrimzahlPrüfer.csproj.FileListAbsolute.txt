@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\bin\Debug\net9.0\AsyncTaskPrimzahlPrüfer.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\bin\Debug\net9.0\AsyncTaskPrimzahlPrüfer.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\bin\Debug\net9.0\AsyncTaskPrimzahlPrüfer.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\bin\Debug\net9.0\AsyncTaskPrimzahlPrüfer.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\bin\Debug\net9.0\AsyncTaskPrimzahlPrüfer.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\refint\AsyncTaskPrimzahlPrüfer.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\AsyncTaskPrimzahlPrüfer.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\PubCo\AsyncTaskPrimzahlPrüfer\AsyncTaskPrimzahlPrüfer\obj\Debug\net9.0\ref\AsyncTaskPrimzahlPrüfer.dll

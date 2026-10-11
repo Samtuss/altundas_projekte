@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\bin\Debug\net9.0\TaskCount.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\bin\Debug\net9.0\TaskCount.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\bin\Debug\net9.0\TaskCount.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\bin\Debug\net9.0\TaskCount.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\bin\Debug\net9.0\TaskCount.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\refint\TaskCount.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\TaskCount.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskCount\TaskCount\obj\Debug\net9.0\ref\TaskCount.dll

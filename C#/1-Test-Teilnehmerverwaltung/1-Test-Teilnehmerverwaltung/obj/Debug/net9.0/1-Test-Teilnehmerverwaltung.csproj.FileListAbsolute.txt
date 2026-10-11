@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\bin\Debug\net9.0\1-Test-Teilnehmerverwaltung.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\bin\Debug\net9.0\1-Test-Teilnehmerverwaltung.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\bin\Debug\net9.0\1-Test-Teilnehmerverwaltung.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\bin\Debug\net9.0\1-Test-Teilnehmerverwaltung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\bin\Debug\net9.0\1-Test-Teilnehmerverwaltung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\refint\1-Test-Teilnehmerverwaltung.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\1-Test-Teilnehmerverwaltung.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\1-Test-Teilnehmerverwaltung\1-Test-Teilnehmerverwaltung\obj\Debug\net9.0\ref\1-Test-Teilnehmerverwaltung.dll

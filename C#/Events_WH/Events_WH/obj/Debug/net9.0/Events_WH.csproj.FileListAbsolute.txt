@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\bin\Debug\net9.0\Events_WH.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\bin\Debug\net9.0\Events_WH.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\bin\Debug\net9.0\Events_WH.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\bin\Debug\net9.0\Events_WH.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\bin\Debug\net9.0\Events_WH.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\refint\Events_WH.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\Events_WH.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\Events_WH\Events_WH\obj\Debug\net9.0\ref\Events_WH.dll

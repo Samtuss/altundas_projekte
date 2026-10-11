@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\bin\Debug\net9.0\EventsSpielerLevelUp.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\bin\Debug\net9.0\EventsSpielerLevelUp.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\bin\Debug\net9.0\EventsSpielerLevelUp.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\bin\Debug\net9.0\EventsSpielerLevelUp.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\bin\Debug\net9.0\EventsSpielerLevelUp.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\refint\EventsSpielerLevelUp.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\EventsSpielerLevelUp.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSpielerLevelUp\EventsSpielerLevelUp\obj\Debug\net9.0\ref\EventsSpielerLevelUp.dll

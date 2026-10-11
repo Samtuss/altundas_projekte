@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\bin\Debug\net9.0\EventsAmpel.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\bin\Debug\net9.0\EventsAmpel.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\bin\Debug\net9.0\EventsAmpel.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\bin\Debug\net9.0\EventsAmpel.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\bin\Debug\net9.0\EventsAmpel.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\refint\EventsAmpel.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\EventsAmpel.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsAmpel\EventsAmpel\obj\Debug\net9.0\ref\EventsAmpel.dll

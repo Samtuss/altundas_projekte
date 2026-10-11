@@ -1,0 +1,92 @@
+{
+  "Inception": {
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "revenue": 829895144,
+    "rating": 8.8
+  },
+  "The Dark Knight": {
+    "year": 2008,
+    "genre": "Action",
+    "revenue": 1004558444,
+    "rating": 9.0
+  },
+  "Interstellar": {
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "revenue": 677471339,
+    "rating": 8.6
+  },
+  "The Godfather": {
+    "year": 1972,
+    "genre": "Crime",
+    "revenue": 250341816,
+    "rating": 9.2
+  },
+  "Pulp Fiction": {
+    "year": 1994,
+    "genre": "Crime",
+    "revenue": 213928762,
+    "rating": 8.9
+  },
+  "Avengers: Endgame": {
+    "year": 2019,
+    "genre": "Action",
+    "revenue": 2797501328,
+    "rating": 8.4
+  },
+  "Titanic": {
+    "year": 1997,
+    "genre": "Romance",
+    "revenue": 2187463944,
+    "rating": 7.9
+  },
+  "The Lion King": {
+    "year": 1994,
+    "genre": "Animation",
+    "revenue": 968511805,
+    "rating": 8.5
+  },
+  "Forrest Gump": {
+    "year": 1994,
+    "genre": "Drama",
+    "revenue": 678222284,
+    "rating": 8.8
+  },
+  "The Matrix": {
+    "year": 1999,
+    "genre": "Sci-Fi",
+    "revenue": 466364845,
+    "rating": 8.7
+  },
+  "Gladiator": {
+    "year": 2000,
+    "genre": "Action",
+    "revenue": 460583960,
+    "rating": 8.5
+  },
+  "Frozen": {
+    "year": 2013,
+    "genre": "Animation",
+    "revenue": 1280802282,
+    "rating": 7.4
+  },
+  "The Shawshank Redemption": {
+    "year": 1994,
+    "genre": "Drama",
+    "revenue": 28800000,
+    "rating": 9.3
+  },
+  "Avatar": {
+    "year": 2009,
+    "genre": "Sci-Fi",
+    "revenue": 2923706026,
+    "rating": 7.9
+  },
+  "La La Land": {
+    "year": 2016,
+    "genre": "Romance",
+    "revenue": 446100000,
+    "rating": 8.0
+  }
+}

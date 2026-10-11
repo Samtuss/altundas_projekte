@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\bin\Debug\net9.0\EventsSmartphoneAkku.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\bin\Debug\net9.0\EventsSmartphoneAkku.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\bin\Debug\net9.0\EventsSmartphoneAkku.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\bin\Debug\net9.0\EventsSmartphoneAkku.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\bin\Debug\net9.0\EventsSmartphoneAkku.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\refint\EventsSmartphoneAkku.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\EventsSmartphoneAkku.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\EventsSmartphoneAkku\EventsSmartphoneAkku\obj\Debug\net9.0\ref\EventsSmartphoneAkku.dll

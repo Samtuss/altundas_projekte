@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\bin\Debug\net9.0\LambdaFuncActionPredicate.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\bin\Debug\net9.0\LambdaFuncActionPredicate.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\bin\Debug\net9.0\LambdaFuncActionPredicate.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\bin\Debug\net9.0\LambdaFuncActionPredicate.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\bin\Debug\net9.0\LambdaFuncActionPredicate.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\refint\LambdaFuncActionPredicate.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\LambdaFuncActionPredicate.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\LambdaFuncActionPredicate\LambdaFuncActionPredicate\obj\Debug\net9.0\ref\LambdaFuncActionPredicate.dll

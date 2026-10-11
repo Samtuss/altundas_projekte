@@ -1,0 +1,91 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--PRODUKTE-->
+<html>
+    <head>
+        <title>Produkte</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../css/barrierefrei.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../html/index.html">
+                            <img id="logo" src="../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <h1>Logitech Options Logo</h1>
+                <img class="hover" src="../bilder/logo/logitech_options.jpg" alt="Logitech Options Logo">#
+                <h1>Logitech G Hub Logo</h1>
+                <img class="hover" src="../bilder/logo/logitech_ghub.png" alt="Logitech G Hub Logo">
+            </nav>
+
+            <article>
+                <h1>Software</h1>
+                <section>
+                    <h2>Die ideale Ergänzung zur Logitech-Hardware:</h2>
+                    <hr>
+                    <p>Logitech bietet neben erstklassiger Hardware auch leistungsstarke Softwarelösungen, die das volle Potenzial ihrer Produkte ausschöpfen. Von Anpassungen bis hin zu Workflows – die Software von Logitech verbessert das Benutzererlebnis für Gamer, Kreative und Berufstätige gleichermaßen. </p>
+                    <h2>Logitech Options:</h2>
+                    <p>Mit der Logitech Options-Software können Nutzer Mäuse, Tastaturen und weitere Logitech-Produkte nach ihren Wünschen konfigurieren. Benutzer haben die Möglichkeit, Funktionen wie Tastenbelegung, Scrollgeschwindigkeit und DPI an ihre Bedürfnisse anzupassen. Diese Software steigert die Produktivität ohne Mühe. </p>
+                    <h4>Logitech Options Hauptfunktionen:</h4>
+                    <ol>
+                        <li>Modifizierung von Tasten und Anweisungen</li>
+                        <li>Multi-Device-Support mit Easy-Switch</li>
+                        <li>Entwicklung von Profilen, die auf die jeweilige App zugeschnitten sind, um für jede Anwendung die optimale Konfiguration zu verwenden</li>
+                    </ol>
+                </section>
+                <section>
+                    <h2>Logitech G Hub:</h2>
+                        <p>Die Logitech G HUB-Software ist für Gaming-Peripheriegeräte unverzichtbar. Sie ermöglicht eine präzise Anpassung und Synchronisierung von Einstellungen für Gaming-Mäuse, Tastaturen und Headsets der Logitech G-Serie. Die Gamer können aufgrund der benutzerfreundlichen Oberfläche Farbprofile, DPI-Stufen und Makros erstellen, die für Spiele entscheidend sind. </p>
+                        <h4>Logitech G Hub Hauptfunktionen</h4>
+                        <ol>
+                            <li>RGB-Beleuchtung mit Lightsync-Technologie synchronisieren</li>
+                            <li>Feinjustierung der DPI-Einstellungen für optimale Präzision</li>
+                            <li>Erstellung und Teilen von benutzerdefinierten Gaming-Profilen</li>
+                        </ol>
+                        <h2>Vorteile:</h2>
+                        <p> Logitech ist einzigartig durch die Kombination von Hardware und Software. Nutzer erhalten durch regelmäßige Software-Updates Zugang zu neuen Funktionen und Verbesserungen, die ihre Geräte auf dem neuesten Stand der Technik halten. Dank der lückenlosen Integration sind Logitech-Produkte mit verschiedenen Plattformen und Anwendungen kompatibel. </p>
+                </section>
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

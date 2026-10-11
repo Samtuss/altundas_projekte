@@ -1,0 +1,15 @@
+Laptop;899.99;Elektronik
+Maus;19.99;Elektronik
+Tastatur;49.99;Elektronik
+Sessel;149.99;Möbel
+Tisch;299.99;Möbel
+Monitor;249.99;Elektronik
+Lampe;39.99;Möbel
+Headset;79.99;Elektronik
+Schreibtischstuhl;199.99;Möbel
+USB-Kabel;9.99;Elektronik
+Bücherregal;89.99;Möbel
+Webcam;59.99;Elektronik
+Stehlampe;69.99;Möbel
+Mikrofon;129.99;Elektronik
+Couchtisch;179.99;Möbel

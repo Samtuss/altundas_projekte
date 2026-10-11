@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\bin\Debug\net9.0\BubbleSortIComparable.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\bin\Debug\net9.0\BubbleSortIComparable.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\bin\Debug\net9.0\BubbleSortIComparable.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\bin\Debug\net9.0\BubbleSortIComparable.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\bin\Debug\net9.0\BubbleSortIComparable.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\refint\BubbleSortIComparable.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\BubbleSortIComparable.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\BubbleSortBsp\BubbleSortIComparable\BubbleSortIComparable\obj\Debug\net9.0\ref\BubbleSortIComparable.dll

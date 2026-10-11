@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\bin\Debug\net9.0\CollectionHashSet.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\bin\Debug\net9.0\CollectionHashSet.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\bin\Debug\net9.0\CollectionHashSet.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\bin\Debug\net9.0\CollectionHashSet.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\bin\Debug\net9.0\CollectionHashSet.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\refint\CollectionHashSet.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\CollectionHashSet.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\CollectionHashSet\CollectionHashSet\obj\Debug\net9.0\ref\CollectionHashSet.dll

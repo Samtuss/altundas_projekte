@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\bin\Debug\net9.0\TaskParalleleBerechnungen.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\bin\Debug\net9.0\TaskParalleleBerechnungen.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\bin\Debug\net9.0\TaskParalleleBerechnungen.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\bin\Debug\net9.0\TaskParalleleBerechnungen.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\bin\Debug\net9.0\TaskParalleleBerechnungen.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\refint\TaskParalleleBerechnungen.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\TaskParalleleBerechnungen.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskParalleleBerechnungen\TaskParalleleBerechnungen\obj\Debug\net9.0\ref\TaskParalleleBerechnungen.dll

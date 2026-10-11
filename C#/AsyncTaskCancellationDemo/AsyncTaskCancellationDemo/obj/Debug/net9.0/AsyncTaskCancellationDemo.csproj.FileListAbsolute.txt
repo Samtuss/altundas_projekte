@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\bin\Debug\net9.0\AsyncTaskCancellationDemo.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\bin\Debug\net9.0\AsyncTaskCancellationDemo.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\bin\Debug\net9.0\AsyncTaskCancellationDemo.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\bin\Debug\net9.0\AsyncTaskCancellationDemo.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\bin\Debug\net9.0\AsyncTaskCancellationDemo.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\refint\AsyncTaskCancellationDemo.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\AsyncTaskCancellationDemo.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\AsyncTaskCancellationDemo\AsyncTaskCancellationDemo\obj\Debug\net9.0\ref\AsyncTaskCancellationDemo.dll

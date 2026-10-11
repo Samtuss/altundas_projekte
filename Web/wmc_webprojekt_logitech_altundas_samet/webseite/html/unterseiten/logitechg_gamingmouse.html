@@ -1,0 +1,130 @@
+<!--Altundas Asir Samet 2BHIF-->
+<!--GAMINGMÄUSE-->
+<html>
+    <head>
+        <title>Gamingmäuse</title>
+        <meta charset="utf-8"/>
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/style.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/unterseiten.css">
+        <link type="text/css" media="screen" rel="stylesheet" href="../../css/barrierefrei.css">
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id="zentriert">
+            <nav id="nav-oben">
+                <ul>
+                    <li>
+                        <a href="../../html/index.html">
+                            <img id="logo" src="../../bilder/logo/logitech_logo.png" alt="logitech-logo">
+                        </a>
+                    </li> 
+                    <li>
+                        <a href="../../html/index.html">Startseite</a>
+                    </li>
+                    <li>
+                        <a href="../../html/produkte.html">Produkte</a>
+                    </li>
+                    <li>
+                        <a href="../../html/logitechg_esports.html">Logitech G & E-Sports</a>
+                    </li>
+                    <li>
+                        <a href="../../html/software.html">Software</a>
+                    </li>
+                    <li>
+                        <a href="../../html/innovationen_technologien.html">Innovationen & Technologien</a>
+                    </li>
+                </ul>
+            </nav>
+
+            <nav id="nav-links">
+                <ol>
+                    <li><a href="#pro_serie">Pro-Serie</a></li>
+                    <li><a href="#g_serie">G-Serie</a></li>
+                </ol>
+            </nav>
+
+            <article>
+                <section>
+                <h1>Gamingmäuse</h1>
+                <p>Entdecken Sie die neuesten Gamingmäuse von Logitech G, die für höchste Präzision und Leistung entwickelt wurden. Unsere Mäuse sind mit fortschrittlicher Technologie ausgestattet, um Ihnen einen Wettbewerbsvorteil zu verschaffen.</p>
+                <br>
+                <hr>
+                </section>
+                <section>
+                    <h2 id="pro_serie">Pro-Serie</h2>
+                    <div class="modelle">
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/mouse/pro_x_superlight1.jpg" alt="PRO X Superlight">
+                            <div class="details">
+                                <h3>PRO X Superlight</h3>
+                                <ul>
+                                    <li>Gewicht: 63g</li>
+                                    <li>Sensor: HERO 25K, 25.600 DPI</li>
+                                    <li>Lightspeed Wireless</li>
+                                    <li>Akku: bis zu 70h</li>
+                                    <li>Reibungsarme Füße</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/mouse/pro_x_superlight2.jpg" alt="PRO X Superlight 2">
+                            <div class="details">
+                                <h3>PRO X Superlight 2</h3>
+                                <ul>
+                                    <li>Gewicht: 60g</li>
+                                    <li>Sensor: HERO 2, 32.000 DPI</li>
+                                    <li>Lightspeed Wireless</li>
+                                    <li>Akku: bis zu 95h</li>
+                                    <li>USB-C, PTFE-Füße</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <h2 id="g_serie">G-Serie</h2>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/mouse/g502.jpg" alt="Logitech G502">
+                            <div class="details">
+                                <h3>G502 X Lightspeed</h3>
+                                <ul>
+                                    <li>Gewicht: 102g</li>
+                                    <li>Sensor: HERO 25K, 25.600 DPI</li>
+                                    <li>Lightspeed Wireless</li>
+                                    <li>13 programmierbare Tasten</li>
+                                    <li>RGB-Beleuchtung</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="modell">
+                            <img class="hover" src="../../bilder/produkte/mouse/g305.jpg" alt="Logitech G305">
+                            <div class="details">
+                                <h3>G305 Lightspeed</h3>
+                                <ul>
+                                    <li>Gewicht: 99g</li>
+                                    <li>Sensor: HERO, 12.000 DPI</li>
+                                    <li>Lightspeed Wireless</li>
+                                    <li>6 programmierbare Tasten</li>
+                                    <li>Akku: bis zu 250h</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </article>
+
+            <footer>
+                <a id="support_kontakt" class="footer-link" href="../html/support_kontakt.html">Support & Kontakt</a>
+                <p class="footer-center">Logitech - Copyright&#169; - Asir Samet Altundas</p>
+                <button id="barrierefrei-toggle" class="footer-link" aria-pressed="false">Barrierefrei-Modus</button>
+            </footer>
+        </div>
+        <script>
+            document.getElementById('barrierefrei-toggle').addEventListener('click', function() {
+                document.body.classList.toggle('barrierefrei-modus');
+                let pressed = this.getAttribute('aria-pressed') === 'true';
+                this.setAttribute('aria-pressed', !pressed);
+            });
+        </script>
+    </body>
+</html>

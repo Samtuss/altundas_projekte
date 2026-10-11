@@ -1,0 +1,15 @@
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\bin\Debug\net9.0\TaskDownloadPipeline.exe
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\bin\Debug\net9.0\TaskDownloadPipeline.deps.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\bin\Debug\net9.0\TaskDownloadPipeline.runtimeconfig.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\bin\Debug\net9.0\TaskDownloadPipeline.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\bin\Debug\net9.0\TaskDownloadPipeline.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.AssemblyInfoInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.AssemblyInfo.cs
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.csproj.CoreCompileInputs.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.sourcelink.json
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\refint\TaskDownloadPipeline.dll
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.pdb
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\TaskDownloadPipeline.genruntimeconfig.cache
+C:\SJ2526\htl22-2526-pos1-3bhif\TEAM\ALTU\TaskDownloadPipeline\TaskDownloadPipeline\obj\Debug\net9.0\ref\TaskDownloadPipeline.dll

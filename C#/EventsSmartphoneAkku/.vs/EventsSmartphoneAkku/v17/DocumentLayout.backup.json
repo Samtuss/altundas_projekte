@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\EventsSmartphoneAkku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7AA93F-0598-472F-B3E1-459C24C1D9BD}|EventsSmartphoneAkku\\EventsSmartphoneAkku.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\eventssmartphoneakku\\eventssmartphoneakku\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7AA93F-0598-472F-B3E1-459C24C1D9BD}|EventsSmartphoneAkku\\EventsSmartphoneAkku.csproj|solutionrelative:eventssmartphoneakku\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7AA93F-0598-472F-B3E1-459C24C1D9BD}|EventsSmartphoneAkku\\EventsSmartphoneAkku.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\eventssmartphoneakku\\eventssmartphoneakku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7AA93F-0598-472F-B3E1-459C24C1D9BD}|EventsSmartphoneAkku\\EventsSmartphoneAkku.csproj|solutionrelative:eventssmartphoneakku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\EventsSmartphoneAkku\\EventsSmartphoneAkku\\Smartphone.cs",
+              "RelativeDocumentMoniker": "EventsSmartphoneAkku\\Smartphone.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\EventsSmartphoneAkku\\EventsSmartphoneAkku\\Smartphone.cs",
+              "RelativeToolTip": "EventsSmartphoneAkku\\Smartphone.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:21:24.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\EventsSmartphoneAkku\\EventsSmartphoneAkku\\Program.cs",
+              "RelativeDocumentMoniker": "EventsSmartphoneAkku\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\EventsSmartphoneAkku\\EventsSmartphoneAkku\\Program.cs",
+              "RelativeToolTip": "EventsSmartphoneAkku\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T09:18:37.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

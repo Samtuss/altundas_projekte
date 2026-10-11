@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\strategywh\\strategywh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|solutionrelative:strategywh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\strategywh\\strategywh\\irabattstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|solutionrelative:strategywh\\irabattstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\strategywh\\strategywh\\vereinskasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|solutionrelative:strategywh\\vereinskasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\strategywh\\strategywh\\schuelerrabatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|solutionrelative:strategywh\\schuelerrabatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|c:\\sj2526\\htl22-2526-pos1-3bhif\\team\\altu\\strategywh\\strategywh\\mitarbeiterrabatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAEACF90-E481-448B-8F8D-787A29C57FA1}|StrategyWH\\StrategyWH.csproj|solutionrelative:strategywh\\mitarbeiterrabatt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 303,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MitarbeiterRabatt.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\MitarbeiterRabatt.cs",
+              "RelativeDocumentMoniker": "StrategyWH\\MitarbeiterRabatt.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\MitarbeiterRabatt.cs",
+              "RelativeToolTip": "StrategyWH\\MitarbeiterRabatt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:58:45.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchuelerRabatt.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\SchuelerRabatt.cs",
+              "RelativeDocumentMoniker": "StrategyWH\\SchuelerRabatt.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\SchuelerRabatt.cs",
+              "RelativeToolTip": "StrategyWH\\SchuelerRabatt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:55:38.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vereinskasse.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\Vereinskasse.cs",
+              "RelativeDocumentMoniker": "StrategyWH\\Vereinskasse.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\Vereinskasse.cs",
+              "RelativeToolTip": "StrategyWH\\Vereinskasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:45:28.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRabattStrategy.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\IRabattStrategy.cs",
+              "RelativeDocumentMoniker": "StrategyWH\\IRabattStrategy.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\IRabattStrategy.cs",
+              "RelativeToolTip": "StrategyWH\\IRabattStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:42:42.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\Program.cs",
+              "RelativeDocumentMoniker": "StrategyWH\\Program.cs",
+              "ToolTip": "C:\\SJ2526\\htl22-2526-pos1-3bhif\\TEAM\\ALTU\\StrategyWH\\StrategyWH\\Program.cs",
+              "RelativeToolTip": "StrategyWH\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T06:42:09.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
